@@ -1,1 +1,4 @@
 # Technical-Skills
+I was tasked with creating code that can clean a raw dataset and extract techinical skills.  I determined that a one-class classification algorithm would be suitable for this binary classification task. With a severely skewed example class distribution, this technique allows me to fit on the input examples from the majority class in the training dataset, then evaluate on a  test dataset with both classes.
+
+I am using a one-class SVM with a non-linear kernel. One-class SVM is perfect for this problem since it's an unsupervised algorithm that learns a decision function for novelty detection: classifying new data as similar or different to the training set. I am utilizing the example technical skills as my training dataset. This dataset has contains 979 instances of a negative case (class -1), which is a normal case, and 0 instances of a postive case (class 1), which is an outlier. 
