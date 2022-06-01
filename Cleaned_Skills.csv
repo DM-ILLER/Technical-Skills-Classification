@@ -1,0 +1,5144 @@
+,0
+0,Java Streams
+1,Object Oriented analysis
+2,reporting and analytics solutions
+3,logical and physical data models
+4,NoSQL Stores
+5,Apache Flink
+6,AWS Kinesis
+7,GCP PusSub
+8,similar cloud platform technologies
+9,cloud environments
+10,API gateways
+11,HTTP 2/websocket
+12,cloud environments
+13,API gateways
+14,HTTP 2/websocket
+15,Web UIExperience
+16,UI Component libraries
+17,Async Module Definition
+18,Web UI:Deep understanding
+19,JavaScript Design
+20,", Eclipse/NetBeans/IntelliJ"
+21,Java Application Servers
+22,Oracle WebLogic
+23,Cross-browser techniques
+24,Chrome Dev Tools
+25,Browser performance auditing
+26,Unix / Linux command line
+27,Object-oriented concepts
+28,UI frameworks
+29,Hadoop / Hive / Presto
+30,ML/AI frameworks
+31,docker and container platforms
+32,Application benchmarking
+33,measurement and control algorithms
+34,UI Applications
+35,embedded Linux-Systems
+36,the Linux-Yocto distribution
+37,DevOps engineers
+38,architectural and design best practices
+39,mobile and fashion commerce platforms
+40,security protocols
+41,business and technical perspectives
+42,rdbms & NoSQL stores
+43,Java/GO
+44,Backend services
+45,Dev tools
+46,pre-processing platforms
+47,Data modeling skills
+48,the testing frameworks
+49,Detail Design phases
+50,Spring and Hibernate based solutions
+51,High-Quality Deliverables
+52,contract and budget assumptions
+53,Base SAS
+54,SAS/STAT
+55,SAS Macro Language
+56,analysis data modeling
+57,the Data Analytics team
+58,AWS technologies
+59,cloud solutions / AWS / Azure / Google cloud
+60,Hadoop/MapReduce/AWS
+61,Experience building flexible data APIs
+62,Agile Development
+63,Rubrik Software Engineers
+64,Master’s degree
+65,Google Cloud Platform/AWS/Azure
+66,Unix/Linux environments
+67,Windows environments
+68,Kubernetes Service
+69,other SOA development experience
+70,OOP and SOLID design principles
+71,public cloud providers
+72,Microsoft SQL Server/Postgres
+73,Agile practices
+74,Performance/Optimization techniques
+75,a DevOps model
+76, Generating testing and test cases
+77,Azure Active Directory
+78,HockeyApp/Visual Studio App Center
+79,Automation Testing
+80,an Agile methodology
+81,Overall Cross Platform app development ecosystem
+82,Portable Class Library
+83,SAP HANA REST API Integration
+84,Core Java
+85,maintainable and testable code
+86,internal and external technical documentation
+87,maintainable and testable code
+88,internal and external technical documentation
+89,cloud computing
+90,Operational efficiencies
+91,UI components
+92,cloud-based ecosystems
+93,Operational efficiencies
+94,UI components
+95,cloud-based ecosystems
+96,Operational efficiencies
+97,UI components
+98,cloud-based ecosystems
+99,Automated analysis
+100,Data annotation
+101,cloud computing
+102,Self-starter
+103,DLP and Encryption gateways
+104,Windows­ based systems
+105,Self-starter
+106,DLP and Encryption gateways
+107,Windows­ based systems
+108,production and debugging complex systems
+109,statistical and machine learning models
+110,6 to 8 years professional Java development experience
+111,API Gateway
+112,Service Mesh
+113,testing frameworks
+114,Application Servers
+115,Database Servers
+116,Object Oriented Programming knowledge
+117,Apache Commons
+118,Apache POI
+119,Eclipse / STS
+120,Apache Ant
+121,Linux bash scripting
+122,Java Message Service
+123,modern JavaScript technologies
+124,API development
+125,A strong grasp
+126,testing frameworks
+127,JavaScript SSR
+128,modern JavaScript technologies
+129,API development
+130,A strong grasp
+131,testing frameworks
+132,JavaScript SSR
+133,modern JavaScript technologies
+134,API development
+135,A strong grasp
+136,testing frameworks
+137,JavaScript SSR
+138,modern JavaScript technologies
+139,API development
+140,A strong grasp
+141,testing frameworks
+142,JavaScript SSR
+143,columnar and/or time-series databases
+144,strong Java script skills
+145,UI changes
+146,UI Team
+147,UI frameworks
+148,automated testing suites
+149,amazing and intuitive experiences
+150,Dev-Ops Deployment process
+151,distributed Database systems
+152,performance profiling
+153,Android java
+154,Android Kotlin
+155, Backend development experience
+156,AWS technologies
+157,SQL/NoSQL Databases
+158,build and deployment processes
+159,infrastructure incidents
+160,(AWS/Azure/GCP
+161,NoSQL Databases
+162,Event Brokers
+163,API Gateway
+164,(Lambdas/GCP Functions
+165,infrastructure automation tooling
+166,the Go programing language
+167,Entrepreneurial and positive attitude
+168,written and verbal English communication skills
+169,Industry certifications
+170,a plus: AWS
+171,Microsoft Azure
+172,Linux systems
+173,Natural Language ProcessingContent & Context UnderstandingRecommender SystemsGraph / Geometric Deep LearningModel
+174,Netsuite ERP - Implementation
+175,new and existing configurations
+176,NetSuite ERP experience
+177,an ERP and 3rd party systems
+178,Salesforce.com
+179,Web Services/SuiteTalk
+180,analytics and scheduling scripts
+181,NetSuite Administrator Certification
+182,ERP implementation experience
+183,our API gateways
+184,Excellent JavaScript development skills
+185,Cloud environments
+186,Experience building API gateways
+187,Real-time 2D/3D applications
+188,cloud workspace
+189,VM/container management
+190,cloud drive / cloud workspaces
+191,Clean architectural and coding principles
+192,Kotlin Multiplatform.. Experience
+193,Mobile Automation Testing
+194,Android SDK
+195,the Android application & view lifecycles
+196,Clean architectural and coding principles
+197,Kotlin Multiplatform.. Experience
+198,Mobile Automation Testing
+199,Android SDK
+200,the Android application & view lifecycles
+201,Clean architectural and coding principles
+202,Kotlin Multiplatform.. Experience
+203,Mobile Automation Testing
+204,simple and elegant designs
+205,oncall and triage rotation
+206," Linux, Networking and AWS experience"
+207,container platforms
+208,Python/Kotlin/Go
+209,high performance networking
+210,Real Time transaction protocols/methods
+211,other Cloud vendors
+212,the Kubernetes ecosystem
+213,oncall and triage rotation
+214, Linux and AWS experience
+215,robust and highly available infrastructure
+216,scalable and efficient data processing systems
+217,Relational and NoSQL databases
+218,Data Warehouse solutions
+219,the Consul automation tools
+220,Raft and Paxos variants
+221,Build and architect systems
+222,performance bottlenecks
+223,Experience building frameworks
+224,performance bottlenecks
+225,Asset Bundles
+226,Experience building frameworks
+227,Linux and Mac OSX operating systems
+228,Android release pipelines
+229,Game Development Cycles
+230,package and automation tools
+231,Java/JEE
+232,Java Spring
+233,core HTTP REST implementations
+234,SQL and NoSQL databases
+235,Apache NiFi.. Golang service best practices
+236,Deployment automation
+237,API test automation
+238,reliable and scalable online services
+239,Linux containers
+240,Java development experience
+241,Java backend infrastructure
+242,cloud services API
+243,AWS platform
+244,junior and intermediate developers
+245,Experience designing
+246,excellent and fluent UI interfaces
+247,architectural and design discussions
+248,container technologies
+249,Common Linux distribution platform installation
+250,performance tuning
+251,Experience managing networking devices
+252,DevOps tools
+253,container technologies
+254,Common Linux distribution platform installation
+255,performance tuning
+256,Experience managing networking devices
+257,DevOps tools
+258,container technologies
+259,Common Linux distribution platform installation
+260,performance tuning
+261,Experience managing networking devices
+262,DevOps tools
+263,container technologies
+264,Common Linux distribution platform installation
+265,performance tuning
+266,Experience managing networking devices
+267,DevOps tools
+268,container technologies
+269,Common Linux distribution platform installation
+270,performance tuning
+271,Experience managing networking devices
+272,DevOps tools
+273,container technologies
+274,Common Linux distribution platform installation
+275,performance tuning
+276,Experience managing networking devices
+277,DevOps tools
+278,container technologies
+279,Common Linux distribution platform installation
+280,performance tuning
+281,Experience managing networking devices
+282,DevOps tools
+283,container technologies
+284,Common Linux distribution platform installation
+285,performance tuning
+286,Experience managing networking devices
+287,DevOps tools
+288,container technologies
+289,Common Linux distribution platform installation
+290,performance tuning
+291,Experience managing networking devices
+292,DevOps tools
+293,container technologies
+294,Common Linux distribution platform installation
+295,performance tuning
+296,Experience managing networking devices
+297,DevOps tools
+298,container technologies
+299,Common Linux distribution platform installation
+300,performance tuning
+301,Experience managing networking devices
+302,DevOps tools
+303,container technologies
+304,Common Linux distribution platform installation
+305,performance tuning
+306,Experience managing networking devices
+307,DevOps tools
+308,container technologies
+309,Common Linux distribution platform installation
+310,performance tuning
+311,Experience managing networking devices
+312,DevOps tools
+313,container technologies
+314,Common Linux distribution platform installation
+315,performance tuning
+316,Experience managing networking devices
+317,DevOps tools
+318,container technologies
+319,Common Linux distribution platform installation
+320,performance tuning
+321,Experience managing networking devices
+322,DevOps tools
+323,container technologies
+324,Common Linux distribution platform installation
+325,performance tuning
+326,Experience managing networking devices
+327,DevOps tools
+328,container technologies
+329,Common Linux distribution platform installation
+330,performance tuning
+331,Experience managing networking devices
+332,DevOps tools
+333,container technologies
+334,Common Linux distribution platform installation
+335,performance tuning
+336,Experience managing networking devices
+337,DevOps tools
+338,container technologies
+339,Common Linux distribution platform installation
+340,performance tuning
+341,Experience managing networking devices
+342,DevOps tools
+343,container technologies
+344,Common Linux distribution platform installation
+345,performance tuning
+346,Experience managing networking devices
+347,DevOps tools
+348,container technologies
+349,Common Linux distribution platform installation
+350,performance tuning
+351,Experience managing networking devices
+352,DevOps tools
+353,container technologies
+354,Common Linux distribution platform installation
+355,performance tuning
+356,Experience managing networking devices
+357,DevOps tools
+358,container technologies
+359,Common Linux distribution platform installation
+360,performance tuning
+361,Experience managing networking devices
+362,DevOps tools
+363,container technologies
+364,Common Linux distribution platform installation
+365,performance tuning
+366,Experience managing networking devices
+367,DevOps tools
+368,container technologies
+369,Common Linux distribution platform installation
+370,performance tuning
+371,Experience managing networking devices
+372,DevOps tools
+373,container technologies
+374,Common Linux distribution platform installation
+375,performance tuning
+376,Experience managing networking devices
+377,DevOps tools
+378,container technologies
+379,Common Linux distribution platform installation
+380,performance tuning
+381,Experience managing networking devices
+382,DevOps tools
+383,container technologies
+384,Common Linux distribution platform installation
+385,performance tuning
+386,Experience managing networking devices
+387,DevOps tools
+388,container technologies
+389,Common Linux distribution platform installation
+390,performance tuning
+391,Experience managing networking devices
+392,DevOps tools
+393,container technologies
+394,Common Linux distribution platform installation
+395,performance tuning
+396,Experience managing networking devices
+397,DevOps tools
+398,Master’s degree
+399,Next.js
+400,UI quality tools
+401,Cloud Service Providers
+402,AWS / Azure / GCP
+403,REST API based products
+404,programming and scripting skills
+405,Android dev
+406,(SQL/NO-SQL databases
+407,iOS/hybrid apps
+408,Kotlin Multiplatform Mobile
+409,the Java stack
+410,dynamic JavaScript-based web applications
+411,API design principles
+412,NoSQL databases
+413,Microsoft Azure
+414,an Agile remote work environment
+415, Experience producing and/or consuming REST API' s.
+416,GitHub Actions
+417,Web Services Protocols
+418, Experience building architectural and low-level integration components
+419,performance optimizations
+420,JavaScript-based web and mobile applications
+421,Web Services Protocols
+422, Experience building architectural and low-level integration components
+423,performance optimizations
+424,JavaScript-based web and mobile applications
+425,Web Services Protocols
+426, Experience building architectural and low-level integration components
+427,performance optimizations
+428,JavaScript-based web and mobile applications
+429,Web Services Protocols
+430, Experience building architectural and low-level integration components
+431,performance optimizations
+432,JavaScript-based web and mobile applications
+433,Web Services Protocols
+434, Experience building architectural and low-level integration components
+435,performance optimizations
+436,JavaScript-based web and mobile applications
+437,Web Services Protocols
+438, Experience building architectural and low-level integration components
+439,performance optimizations
+440,JavaScript-based web and mobile applications
+441,the Product Roadmap
+442, Technical fluency
+443,Azure and cloud-native architecture
+444,DevOps practices
+445,the Product Roadmap
+446, Technical fluency
+447,Azure and cloud-native architecture
+448,DevOps practices
+449,the Product Roadmap
+450, Technical fluency
+451,Azure and cloud-native architecture
+452,DevOps practices
+453,TSQL and relational database systems
+454,build and deployment systems
+455,performance optimization
+456,OpenID Connect protocols
+457,TSQL and relational database systems
+458,build and deployment systems
+459,performance optimization
+460,OpenID Connect protocols
+461,TSQL and relational database systems
+462,build and deployment systems
+463,performance optimization
+464,OpenID Connect protocols
+465,TSQL and relational database systems
+466,build and deployment systems
+467,performance optimization
+468,OpenID Connect protocols
+469,TSQL and relational database systems
+470,build and deployment systems
+471,performance optimization
+472,OpenID Connect protocols
+473,the Product Roadmap
+474, Technical fluency
+475,Azure and cloud-native architecture
+476,DevOps practices
+477,TSQL and relational database systems
+478,build and deployment systems
+479,performance optimization
+480,OpenID Connect protocols
+481,SQL database
+482,Android SDK
+483,Agile projects
+484,Azure DevOps Server
+485,Azure/AWS cloud platforms
+486,Android or Linux kernels
+487,Android OS
+488, Update HTML/JavaScript section
+489,JavaScript frameworks
+490,Kotlin / Kotlin multiplatform
+491,C++ programing
+492, Workforce management domain
+493, Kotlin and Java programming expertise
+494, Workforce management domain
+495,the Product Roadmap
+496, Technical fluency
+497,Azure and cloud-native architecture
+498,DevOps practices
+499,the Product Roadmap
+500, Technical fluency
+501,Azure and cloud-native architecture
+502,DevOps practices
+503,TSQL and relational database systems
+504,build and deployment systems
+505,performance optimization
+506,OpenID Connect protocols
+507,the Product Roadmap
+508, Technical fluency
+509,Azure and cloud-native architecture
+510,DevOps practices
+511,the Product Roadmap
+512, Technical fluency
+513,Azure and cloud-native architecture
+514,DevOps practices
+515,TSQL and relational database systems
+516,build and deployment systems
+517,performance optimization
+518,OpenID Connect protocols
+519, Backend development
+520,(Services/APIs/Background Jobs
+521, Automated Testing Development
+522,automated testing framework
+523, No-SQL databases exposure
+524, Agile - Scrum
+525,SQL database
+526,Android SDK
+527,Agile projects
+528,Azure DevOps Server
+529,Azure/AWS cloud platforms
+530,Android or Linux kernels
+531,Android OS
+532, Update HTML/JavaScript section
+533,JavaScript frameworks
+534,Kotlin / Kotlin multiplatform
+535,C++ programing
+536, Workforce management domain
+537,SQL database
+538,Android SDK
+539,Agile projects
+540,Azure DevOps Server
+541,Azure/AWS cloud platforms
+542,Android or Linux kernels
+543,Android OS
+544, Update HTML/JavaScript section
+545,JavaScript frameworks
+546,Kotlin / Kotlin multiplatform
+547,C++ programing
+548, Workforce management domain
+549,the Product Roadmap
+550, Technical fluency
+551,Azure and cloud-native architecture
+552,DevOps practices
+553,the Product Roadmap
+554, Technical fluency
+555,Azure and cloud-native architecture
+556,DevOps practices
+557,TSQL and relational database systems
+558,build and deployment systems
+559,performance optimization
+560,OpenID Connect protocols
+561,TSQL and relational database systems
+562,build and deployment systems
+563,performance optimization
+564,OpenID Connect protocols
+565,TSQL and relational database systems
+566,build and deployment systems
+567,performance optimization
+568,OpenID Connect protocols
+569,SQL database
+570,Android SDK
+571,Agile projects
+572,Azure DevOps Server
+573,Azure/AWS cloud platforms
+574,Android or Linux kernels
+575,Android OS
+576, Update HTML/JavaScript section
+577,JavaScript frameworks
+578,Kotlin / Kotlin multiplatform
+579,C++ programing
+580, Workforce management domain
+581,SQL database
+582,Android SDK
+583,Agile projects
+584,Azure DevOps Server
+585,Azure/AWS cloud platforms
+586,Android or Linux kernels
+587,Android OS
+588, Update HTML/JavaScript section
+589,JavaScript frameworks
+590,Kotlin / Kotlin multiplatform
+591,C++ programing
+592, Workforce management domain
+593,SQL database
+594,Android SDK
+595,Agile projects
+596,Azure DevOps Server
+597,Azure/AWS cloud platforms
+598,Android or Linux kernels
+599,Android OS
+600, Update HTML/JavaScript section
+601,JavaScript frameworks
+602,Kotlin / Kotlin multiplatform
+603,C++ programing
+604, Workforce management domain
+605,SQL database
+606,Android SDK
+607,Agile projects
+608,Azure DevOps Server
+609,Azure/AWS cloud platforms
+610,Android or Linux kernels
+611,Android OS
+612, Update HTML/JavaScript section
+613,JavaScript frameworks
+614,Kotlin / Kotlin multiplatform
+615,C++ programing
+616, Workforce management domain
+617,UI design tradeoffs
+618,analysis databases
+619,Base SAS
+620,SAS/STAT
+621,SAS Macro Language
+622,Web API
+623,Web Api
+624,Entity Framework/ORM
+625,Object Oriented Design skills
+626,analytic and troubleshooting skills
+627,debugging and performance profiling
+628,the Cloud Azure
+629,Basis Technologies DSP systems
+630,system and applications deployments
+631,performance tuning
+632,Linux Operating Systems
+633,infrastructure management and automation systems
+634,underlying cloud infrastructure
+635,complex and varied Cloud Data
+636,one cloud provider
+637,reliable and maintainable code
+638,Big Query
+639,Google Cloud Platform data technologies
+640,Google BigQuery
+641,Google DataFlow
+642,strong SQL skills
+643,Microsoft Azure SQL Data Warehouse
+644,a Data Orchestration solutions
+645,underlying cloud infrastructure
+646,complex and varied Cloud Data
+647,one cloud provider
+648,reliable and maintainable code
+649,Big Query
+650,Google Cloud Platform data technologies
+651,Google BigQuery
+652,Google DataFlow
+653,strong SQL skills
+654,Microsoft Azure SQL Data Warehouse
+655,a Data Orchestration solutions
+656,underlying cloud infrastructure
+657,complex and varied Cloud Data
+658,one cloud provider
+659,reliable and maintainable code
+660,Big Query
+661,Google Cloud Platform data technologies
+662,Google BigQuery
+663,Google DataFlow
+664,strong SQL skills
+665,Microsoft Azure SQL Data Warehouse
+666,a Data Orchestration solutions
+667,underlying cloud infrastructure
+668,complex and varied Cloud Data
+669,one cloud provider
+670,reliable and maintainable code
+671,Big Query
+672,Google Cloud Platform data technologies
+673,Google BigQuery
+674,Google DataFlow
+675,strong SQL skills
+676,Microsoft Azure SQL Data Warehouse
+677,a Data Orchestration solutions
+678,underlying cloud infrastructure
+679,complex and varied Cloud Data
+680,one cloud provider
+681,reliable and maintainable code
+682,Big Query
+683,Google Cloud Platform data technologies
+684,Google BigQuery
+685,Google DataFlow
+686,strong SQL skills
+687,Microsoft Azure SQL Data Warehouse
+688,a Data Orchestration solutions
+689,underlying cloud infrastructure
+690,complex and varied Cloud Data
+691,one cloud provider
+692,reliable and maintainable code
+693,Big Query
+694,Google Cloud Platform data technologies
+695,Google BigQuery
+696,Google DataFlow
+697,strong SQL skills
+698,Microsoft Azure SQL Data Warehouse
+699,a Data Orchestration solutions
+700,underlying cloud infrastructure
+701,complex and varied Cloud Data
+702,one cloud provider
+703,reliable and maintainable code
+704,Big Query
+705,Google Cloud Platform data technologies
+706,Google BigQuery
+707,Google DataFlow
+708,strong SQL skills
+709,Microsoft Azure SQL Data Warehouse
+710,a Data Orchestration solutions
+711,underlying cloud infrastructure
+712,complex and varied Cloud Data
+713,one cloud provider
+714,reliable and maintainable code
+715,Big Query
+716,Google Cloud Platform data technologies
+717,Google BigQuery
+718,Google DataFlow
+719,strong SQL skills
+720,Microsoft Azure SQL Data Warehouse
+721,a Data Orchestration solutions
+722,underlying cloud infrastructure
+723,complex and varied Cloud Data
+724,one cloud provider
+725,reliable and maintainable code
+726,Big Query
+727,Google Cloud Platform data technologies
+728,Google BigQuery
+729,Google DataFlow
+730,strong SQL skills
+731,Microsoft Azure SQL Data Warehouse
+732,a Data Orchestration solutions
+733,underlying cloud infrastructure
+734,complex and varied Cloud Data
+735,one cloud provider
+736,reliable and maintainable code
+737,Big Query
+738,Google Cloud Platform data technologies
+739,Google BigQuery
+740,Google DataFlow
+741,strong SQL skills
+742,Microsoft Azure SQL Data Warehouse
+743,a Data Orchestration solutions
+744,underlying cloud infrastructure
+745,complex and varied Cloud Data
+746,one cloud provider
+747,reliable and maintainable code
+748,Big Query
+749,Google Cloud Platform data technologies
+750,Google BigQuery
+751,Google DataFlow
+752,strong SQL skills
+753,Microsoft Azure SQL Data Warehouse
+754,a Data Orchestration solutions
+755,board processing design specification
+756,board processing payloads
+757,definition and subsystem specifications
+758,RF and digital equipment
+759,Digital channel processor specifications
+760,Direct Radiating Array (DRA) Antenna
+761,Flexible payload
+762,RF and system payload
+763,new and emerging software tools
+764,key performance metrics
+765,Relevant DevOps engineering experience
+766,Linux system administration
+767,performance tuning
+768,security hardening
+769,Azure Cloud
+770,Docker and container orchestrators
+771,configuration management tools
+772,SQL Databases
+773,GUI tools
+774,DevOps Engineers
+775,secure infrastructure automation
+776,DevOps automation/infrastructure/product delivery
+777,cloud architects
+778,testing scripts
+779,infrastructure provisioning
+780,Microsoft Azure
+781,the Azure platform
+782,Azure technologies
+783,SQL/Cosmos/Mongo/PostGreSQL
+784,User journeys
+785,the Oracle Siebel technology workspace
+786,Oracle Siebel
+787,Oracle Policy Automation
+788,A bachelor’s degree
+789,a Siebel designer/developer
+790,Siebel SOAP Structure
+791,Siebel Workflows
+792,Siebel Integration Object structures
+793,EAI Business Services
+794,Siebel Configuration
+795,application performance tuning
+796,the Siebel Data model
+797,SQL / Store procedure creation
+798,Siebel enterprise architecture
+799,Siebel Open UI
+800,Java Script
+801,Siebel Public Sector applications
+802,Technical expertise
+803,"Experience designing and developing APIs, web and mobile properties"
+804,Agile team
+805,Automated testing
+806,Agile development environment
+807,Communications interfaces
+808,Windows Active Directory
+809,Azure Active Directory
+810,Azure AD Connect
+811,AD CS
+812,AD FS
+813,AD LDS
+814, Microsoft Azure AD
+815, Microsoft Web Application Proxy
+816,production and non-production environments
+817,Microsoft Active Directory
+818,Azure AD Zero Trust components implementation
+819,Azure AD proxy
+820,device authentication
+821,Microsoft’s advanced security and networking services
+822,Key Vault
+823,dynamic and immutable Azure Cloud infrastructure
+824, Preferable security knowledge
+825, Enterprise Mobility + Security (EMS
+826,Conditional Access \ MDM \ MAM
+827,Tenant \ Security & Compliance Center
+828,M365 Security & Compliance  Strong PowerShell scripting skills
+829,Microsoft 365 security and strategy discussions
+830,production and non-production environments
+831,fundamental cloud technologies
+832,GCP certifications
+833,Scope Key Candidate Skills
+834, Encryption and Key Management
+835,Azure Active Directory
+836,Azure AD Connect
+837, Management & Automation Tools
+838, Configuration Management
+839," Logging, Monitoring and SIEM tools"
+840,product and design lifecycles
+841,product and design lifecycles
+842,product and design lifecycles
+843,product and design lifecycles
+844,security fixes
+845,security scanners
+846,security functionality
+847,security fixes
+848,security scanners
+849,security functionality
+850,security fixes
+851,security scanners
+852,security functionality
+853,security fixes
+854,security scanners
+855,security functionality
+856,product and design lifecycles
+857,product and design lifecycles
+858,A/B testing frameworks
+859,product and design lifecycles
+860,product and design lifecycles
+861,foundational infrastructure components
+862,container orchestration
+863,A/B testing frameworks
+864,foundational infrastructure components
+865,container orchestration
+866,foundational infrastructure components
+867,container orchestration
+868,foundational infrastructure components
+869,container orchestration
+870,A/B testing frameworks
+871,A/B testing frameworks
+872,A/B testing frameworks
+873,A/B testing frameworks
+874,SQL queries
+875,SQL queries
+876,SQL indices
+877,Agile or Lean environment
+878,SQL queries
+879,technical and product expertise
+880,Hadoop ecosystem
+881,reliable and maintainable code
+882,Hadoop Clusters Proven
+883,Azure ADLS
+884,Linux enviroment
+885,SQL queries
+886,Automation opportunities
+887,SQL Hadoop Ecosystem - Hive
+888,VM/container management
+889,Self-starter
+890,AWS products
+891,cloud deployment
+892,Quality Assurance reports
+893,Testing Automation
+894,Software Development methodologies
+895,A bachelor’s degree
+896,Kubernetes clusters
+897,DevOps role
+898,Kubernetes clusters
+899,SAS programming activities
+900,oversight and effective delegation
+901,SAS Programming activities
+902,analysis datasets
+903,complex SAS procedures
+904,analysis datasets
+905,analysis datasets
+906,Archive deliverable files
+907,Lead Statistician
+908,the Lead Statistician
+909,Lead Biostatistician and Project Manager
+910,SAS Programming expertise
+911,departmental and company-wide initiatives
+912,SAS Programming Subject Matter Expert
+913,Support SAS Programming process improvement
+914,SAS Programming Client Account Manager
+915,the SAS Programming team
+916,SAS Programming
+917,Company SAS Programming services
+918,the SAS Programming group
+919,SAS Programmers
+920,assigned SAS Programming resource
+921,SAS programming experience
+922,Master’s Degree
+923,SAS programming experience
+924,ADaM Implementation Guidelines
+925,CDISC Implementation Guideline
+926,quality Standard Data Tabulation Model
+927,XML documents
+928,analysis datasets
+929,SAS code
+930,SAS code
+931,SAS code
+932,SAS programs
+933,QC SAS programs
+934,Train and mentor new hires
+935,junior SAS Programmers
+936,statistical analysis outputs
+937,SAS programming experience
+938,OR Master’s Degree
+939,SAS programming experience
+940,ADaM Implementation Guidelines
+941,technology and business stakeholders
+942,Continuous Delivery/Continuous Integration workflow
+943,Python/Go/Bash scripting experience
+944,Strong Linux Systems Administration Experience
+945,Managed Apache Airflow
+946,Kubernetes cluster
+947,Prometheus and PromQL experience
+948,Code - Terraform
+949,DevOps best practices
+950,Scala Control^M
+951,medium and significant Complex data Pipelines
+952,Cloud Data platforms
+953,Data Architectures
+954,DevOps tools
+955,Hadoop and Data Engineering space
+956,Apache Hadoop distributions
+957,NoSQL databases
+958,Hadoop Framework
+959,Continuous Integrations tools
+960,Linux/Mac OS administration
+961,package management and testing framework
+962,WorkForce Software experience
+963,SAP SuccessFactors
+964,WorkForce Software modules
+965,A Bachelor’s Degree
+966,DevOps Engineers
+967,Continuous Integration systems
+968,AWS CodeBuild)Experience
+969,performance bottlenecksAbility
+970,Agile/Scrum
+971,Lean and Agile ways
+972,Interpersonal and collaboration skills
+973,Java / Kotlin / Android apps
+974,/ Master’s degree
+975,Android framework internals / device bringups
+976,Linux kernel
+977,Design workflows
+978,Maya and Maya scripting
+979,Nuke and Houdini experience
+980,Object-oriented Python
+981,5 to 10 yrs industry experience
+982,OSI Model
+983,Agile development and testing processes
+984,a plus.. Automation experience
+985,solution implementations
+986,Coaches and mentors team members
+987,McAfee/Juniper
+988,Solution Architects
+989,written and verbal communication skills
+990,Self-starter
+991,Vulnerability Management / Assessment
+992,Industry certifications
+993,functional and non-functional testing
+994,innovative and modern tools
+995,AI-enabled metadata management tools
+996,A bachelor
+997,data management disciplines
+998,optimization and data quality
+999,Object-oriented/object function scripting
+1000,analytics and data science output
+1001,relational and nonrelational environments
+1002,AWS Redshift
+1003,AWS Aurora
+1004,SQL Server
+1005,Amazon Simple queuing Service
+1006,Apache Nifi
+1007,Apache Kafka Streams
+1008,Amazon Kinesis
+1009,Apache Kafka KSQL
+1010,BI software tools
+1011,AWS Elastic Container Service
+1012,Akamai Web Application Security
+1013,Web Application Firewall security solutions
+1014,hands-on Web Application Firewall deployment
+1015,runtime testing tools
+1016,Azure DevOps
+1017,Aqua Security platform
+1018,new security solutions evaluation
+1019,Web Proxy
+1020,Web Content Filtering
+1021,SQL Server
+1022,Modern Azure PaaS development
+1023,Azure Functions
+1024,Azure DevOps experience
+1025,Azure AD Identity
+1026,Microsoft Certifications
+1027, Assist DevOps engineer
+1028,public cloud deployment platforms
+1029,E2E Smart Devices
+1030,API design
+1031,A meticulous approach
+1032,A meticulous approach
+1033,A meticulous approach
+1034,A meticulous approach
+1035,A meticulous approach
+1036,A meticulous approach
+1037,A meticulous approach
+1038,API tests
+1039,Azure Devops pipelines
+1040,azure cloud services
+1041,Agile ceremonies
+1042,SQL Server.. Postman
+1043,analysis databases
+1044,Base SAS
+1045,SAS Graph
+1046,SAS Macro Language
+1047,analysis databases
+1048,Base SAS
+1049,SAS Graph
+1050,SAS Macro Language
+1051,analysis databases
+1052,Base SAS
+1053,SAS Graph
+1054,SAS Macro Language
+1055,SAP CPI
+1056,API technical architecture principles
+1057,API Management
+1058,API Microservices concepts
+1059,ERP systems
+1060,Jira and Agile project development environments
+1061,Integration Standardization practices
+1062,a Lead Backend Engineer (LBE
+1063,public cloud environments
+1064,a Java developer
+1065,SQL / NoSQL database knowledge
+1066,Test frameworks
+1067,container technologies
+1068,AWS services
+1069,"Accenture Google Business Group’s close-knit, vibrant community"
+1070,emerging Google technologies
+1071,certified Google Cloud practitioners
+1072,Enterprise Data Warehouse technologies
+1073,GCP Cloud data implementation projects experience
+1074,Cloud Composer
+1075,Big Query
+1076,MS SQL Server
+1077,Java Development w/Spring Boot
+1078,Java Development w/Spring Boot
+1079,Java Development w/Spring Boot
+1080,Java Development w/Spring Boot
+1081,solution architects
+1082,mentoring and development opportunities
+1083,Oracle EPBCS
+1084,OneStream Implementation/ Support experience
+1085,SQL Server
+1086,intuitive and engaging user experiences
+1087,robust and extensible solutions
+1088,clean and maintainable code
+1089,tactical to-dos
+1090,technical and non-technical audiences
+1091,timely and continuous delivery
+1092,DevOps environment
+1093,API first systems
+1094,an Agile environment
+1095,/B.Tech/MCA
+1096,API development
+1097,the Agile development processes
+1098,Hands-on experience designing/developing/consuming APIs
+1099,AWS experience
+1100,Kubernetes clusters
+1101,other cloud computing platforms
+1102,E2E Mobile Calling
+1103,API design
+1104,Android or iOS experience
+1105,Web development workflows
+1106,JavaScript/Typescript
+1107,Agile development methodologies
+1108,an Agile environment
+1109,CS/Engineering
+1110,other JavaScript frameworks
+1111,"Kotlin, Swift"
+1112,hydro and dam design
+1113,Lead SRE activities
+1114,cloud computing
+1115,AWS cloud
+1116,DevOps culture
+1117,a DevOps mindset
+1118,DevOps tools
+1119,Single Page Application Frameworks
+1120,Hybris components
+1121,cloud architecture Subject Matter Experts
+1122,Hybris-based technology
+1123,Hybris-based systems
+1124,Bounteous’ Managed Services team
+1125,a Hybris IT Service Management model
+1126,Hybris services
+1127,SAP Hybris experience
+1128,API development
+1129,Agile Scrum
+1130,Excellent security mindset
+1131,AWS Cloud environment
+1132,BA/BS
+1133,internal and external stakeholders
+1134,Backend applications
+1135,internal and external stakeholders
+1136,Backend applications
+1137,all Agile ceremonies
+1138,communications and data protocols
+1139,Web Sockets
+1140,the Salesforce platform
+1141,cross-cloud integration
+1142,CRM experience
+1143,the Salesforce ecosystem
+1144,the Salesforce product suite
+1145,effective testing methodologies
+1146,solution designers
+1147,technical and non-technical audiences
+1148,technical and non-technical audiences
+1149,Object-Oriented programming
+1150,Agile methods
+1151,infrastructure automation
+1152, Evaluate process alternatives
+1153,construction and vendor fabrication assistance
+1154,Professional Engineer and PMP certifications
+1155, Self-starter
+1156, Theoretical and practical design knowledge
+1157,Agile practices
+1158,programming and continuous integration development methods
+1159, Object Oriented Programming
+1160, Java/C#/Python
+1161, Big data/Hadoop/Spark
+1162,API design
+1163,integration and sandbox environments
+1164,API specification
+1165,Google Compute Engine
+1166,Google BigQuery
+1167,SQL Server and Postgres database design
+1168,JavaScript frameworks
+1169,UI/UX design
+1170,Technical competence
+1171,SQL database design
+1172,Cloud computing experience
+1173,SQL database design
+1174,Cloud computing experience
+1175,UI/UX designers
+1176,SQL database design
+1177,Cloud computing experience
+1178,Google BigQuery
+1179,SQL database design
+1180,Cloud computing experience
+1181,SQL database design
+1182,Cloud computing experience
+1183,The DevOps Engineer
+1184,the Data and Analytics team
+1185,Kubernetes infrastructure
+1186,a DevOps Engineer
+1187,Kubernetes clusters
+1188,Google Kubernetes Engine
+1189,Enterprise wide strategic initiatives
+1190,our Cloud & DevOps roadmap
+1191,the Data and Analytics team
+1192,multiple Kubernetes clusters
+1193,System troubleshooting
+1194,platform and application domains
+1195,all Kubernetes clusters
+1196,DevOps standards
+1197,Google Cloud Certified
+1198,Professional Cloud Architect
+1199,AWS Certified Cloud Practitioner
+1200,MCSA Windows Server Certification
+1201,Kubernetes\OpenShift
+1202,container technologies
+1203,Cloud Pub/Sub
+1204,an Google Cloud Platform based cloud solution
+1205,a DevOps Engineer/Solutions Architect
+1206,Google GCP environment
+1207,configuration management tools
+1208,Apache Kafka
+1209,Guide Junior Developers
+1210,project and sustainment plans
+1211,Microsoft SQL
+1212,Agile framework
+1213,the Marketing/Merchandising Promotion Planning domain
+1214,a UI Developer Lead Java Designer-Developer
+1215,Single Page Java web applications
+1216,Object-Oriented Programming
+1217,Angular UI applications
+1218,Oracle Http Web server
+1219,Oracle WebLogic application server/Tomcat
+1220,Spring Cloud (Microservices
+1221,OOP and Design Pattern
+1222,cloud cluster management technologies
+1223,cloud cluster management technologies
+1224,Experience programming microcontrollers
+1225,ARM Cortex-M experience
+1226,API specifications
+1227,GUI application development
+1228,C++ GUI toolkit
+1229,embedded OS environments
+1230,ARM Cortex-M. Experience
+1231,Object-Oriented Programming concepts
+1232,IoT technologies
+1233,Agile Scrum method
+1234,Java/Open Source Technologies
+1235,Software Algorithm Design
+1236,Software Performance Tuning
+1237,Software Debugging
+1238,Software Development Fundamentals
+1239,simple and intuitive Product features
+1240,written and/or graphical formats
+1241,Agile – Scrum
+1242, Java/NodeJs/ReactJs other programming languages
+1243,Object-Oriented design skills
+1244, Dev-ops tools
+1245,a cloud-based platform e.g. AWS/Azure
+1246,Apache Kafka
+1247,Master’s degree
+1248,the DevOps processes
+1249,our cloud workload
+1250,Scheduling follow-ups
+1251,Non-tech background learners
+1252,the JavaScript object model
+1253,/Other CSS libraries
+1254,AWS cloud tools
+1255," Self-motivated, go-getter"
+1256,Hadoop Big Data
+1257,Hadoop functioning
+1258,an Agile environment
+1259,Cloud deployment
+1260,Business Intelligence Architect
+1261,Business Analysts
+1262,ERP software design
+1263,an ERP reporting
+1264,techniques and documentation methods
+1265,IVR Services
+1266,Web 2.0 technologies
+1267,RESTful API Modeling Language
+1268,Java Enterprise Applications
+1269,SQL Server Integration Services
+1270,Strong and effective inter-personal and communication skills
+1271,the API platform
+1272,the Automation Architect
+1273,close to 100% automation
+1274,Computer Science Fundamentals
+1275,written and verbal communication skills
+1276,Agile scrum methodologies
+1277,DevOps processes
+1278,Core Java development experience
+1279,Core Java concepts
+1280,strong and efficient SDLC practices
+1281,B.Tech./B.E./M.Tech./MCA
+1282,Java/Scala
+1283,good CS fundamentals
+1284,Hadoop/Spark
+1285,RDBMS and/or NoSQL database technologies
+1286,AWS experience
+1287, A flexible self-starter
+1288,new and varied technologies
+1289,A good grounding
+1290,an Agile development environment
+1291,DevOps tools
+1292,Financial Services and/or Software Consulting experience
+1293,Agile ceremonies
+1294,modern UI frameworks
+1295,any cloud technologies and cloud deployments
+1296,Agile Project development methodology
+1297,Presentation and mentoring skills
+1298,Provision infrastructure
+1299,monitoring and notifications systems
+1300,DevOps technologies
+1301, AWS experience
+1302,/B Tech/MCA
+1303,Java Swing
+1304,testing methodologies
+1305,Object Oriented Design
+1306,Unified Modeling Language
+1307,Scaled Agile environment
+1308,Configuration Management systems
+1309,Defect Tracking tools
+1310,small and medium sized tasks
+1311,"high-performance, scalable, robust and reliable server applications"
+1312,our DevOps approach
+1313,enterprise Java software development
+1314,UI automated tests
+1315,written and verbal form
+1316,"A collaborative, team orientated attitude"
+1317,Java software development
+1318,API development experience
+1319,architectural and design decisions
+1320,", GIT/SVN repository"
+1321,eCommerce solutions
+1322,Java-based services
+1323,Oracle Commerce
+1324,Java EE
+1325,Advanced proficiency
+1326,HCM Machine Learning Engineers
+1327,HCM ML
+1328,HCM ML features
+1329,REST API calls
+1330,the HCM ML codebase
+1331,Workday business logic
+1332,the testing pyramid
+1333,modern UI technologies
+1334, API and/or webservice ownership experience
+1335,a Linux/Unix environment
+1336,a Linux/Unix environment
+1337,MS/PhD
+1338,robust and quality code
+1339,distributed and concurrent systems
+1340,an Agile/Scrum environment
+1341,NuGet Development
+1342,Azure Development
+1343,Azure DevOps
+1344,Octopus CD
+1345,common JavaScript libraries/frameworks
+1346,complex security environments
+1347,EY security systems
+1348,a Self-starter
+1349,"infrastructure implementation/management, service/operations management"
+1350,Firewall automation platformZscaler Cloud
+1351,Azure ADSonicWall/Pulse Secure/Prisma VPN
+1352,Security related Professional qualifications
+1353,[Check Point CCSE
+1354,Blue Coat BCCPA
+1355,Service management qualifications
+1356,Quality assurance experience
+1357,JavaScript automation framework
+1358,iOS/Android automation frameworks
+1359,Kubernetes community
+1360,security vulnerabilities
+1361,Microsoft Defender product
+1362,security toolset
+1363,security verification automation
+1364,system/OS/driver code
+1365,Security Researcher
+1366,Penetration Tester
+1367,Security Assurance- OR - Academic equivalent experience
+1368,Malware Researchers
+1369,Experience authoring detections
+1370,security vulnerability patterns
+1371,Secure Development Lifecycle
+1372,hardware security modules
+1373,A collaborative approach
+1374,Automation/tooling knowledge
+1375,regular performance evaluations
+1376,A compassionate approach
+1377, Calm and methodical approach
+1378,DevOps engineers
+1379,cloud architects
+1380,testing scripts
+1381,DevOps processes
+1382,Azure DevOps & Developing templates
+1383,container orchestration
+1384,SQL Server
+1385,Intelligence/Data-warehousing products
+1386,Informatica products
+1387,DevOps tools
+1388,New Relic
+1389,MS Azure DevOps Engineer Expert
+1390,DevOps Specialist
+1391,Azure PaaS
+1392,Azure storage solutions
+1393,App Gateway
+1394,Azure DevOps
+1395,DevSecOps security practices
+1396,regular security patching
+1397,Deloitte security standards
+1398,HP Fortify
+1399,"Agile, Lean"
+1400,Linux development environments
+1401,MS SQL
+1402,Computer Science or Software Engineering disciplines
+1403,Hinge Health software engineers
+1404,Hinge Health applications
+1405,thoughtful and constructive code reviews
+1406,Domain Expertise
+1407,Business intuition
+1408,Security metrics delivery
+1409,primarily Agile/Scrum
+1410,security architectures
+1411,security architectures
+1412,front- and back-end architectures
+1413, Experience porting code
+1414,AWS Sagemaker
+1415,hybrid architecture
+1416,remote Linux-based compute workstations
+1417,an Agile team
+1418,API design
+1419,both UI and backend services
+1420,a DevOps mindset
+1421,Agile techniques
+1422,SQL Server
+1423,NoSQL data stores
+1424,Agile/SCRUM SDLC
+1425,Android SDK
+1426,technical and non-technical audiences
+1427,a cloud service provider
+1428,the Microsoft Azure Data Stack
+1429,"(ADFv2, Azure SQL DB"
+1430,Azure SQL Datawarehouse
+1431,Azure Data Lake
+1432,Azure Databricks
+1433,Azure data migration patterns
+1434,Agile methodology experience
+1435,Azure DevOps experience
+1436,Customer/client-facing consulting skills
+1437,non-Microsoft platforms
+1438,Agile/SCRUM SDLC
+1439,Android SDK
+1440,Agile/Scrum SDLC
+1441,Agile environment
+1442,Salesforce Marketing Cloud
+1443,Google Analytics
+1444,Quality Assurance and data validation procedures
+1445,performance tuning
+1446,Salesforce Marketing Cloud
+1447,Google Analytics Experience
+1448,the AWS cloud
+1449, Object-oriented programming
+1450,Salesforce sales cloud and service cloud experience
+1451, Salesforce Platform Developer
+1452,Salesforce Domain Architect certifications
+1453,Strong Backend experience
+1454,Functional programming
+1455,other cloud environments
+1456,testing and quality assurance
+1457,GraphQL and/or Apollo Client
+1458,Strong Backend Elixir experience
+1459,an AWS environment
+1460,Integration and API experience
+1461,Salesforce.com
+1462,functional and technical specifications
+1463,Agile and Scrum methodologies
+1464,Sales/Marketing and Service modules
+1465,Salesforce Certified Platform Developer I
+1466,Certified Platform Developer II Certifications
+1467,Salesforce.com
+1468,Salesforce.com
+1469,Enterprise application/integration experience
+1470,Web Service/Rest API/SOAP API integration experience
+1471,JBOSS/Web/Server hosting platform background
+1472,Boomi platform experience
+1473,Database user background - Oracle/MySQL/MSSQL/PostgreSQL
+1474,SQL Queries
+1475,Confluent Cloud experience
+1476,API integrations
+1477,"Agile, ITIL"
+1478,CRM experience
+1479,Salesforce certifications
+1480,solution scalability
+1481,Product Roadmap
+1482,distributed cloud-native applications
+1483,Technical fluency
+1484,Desired Technical Proficiencies
+1485,the Agile teams
+1486,solution scalability
+1487,Product Roadmap
+1488,distributed cloud-native applications
+1489,Technical fluency
+1490,Desired Technical Proficiencies
+1491,the Agile teams
+1492,solution scalability
+1493,Product Roadmap
+1494,distributed cloud-native applications
+1495,Technical fluency
+1496,Desired Technical Proficiencies
+1497,the Agile teams
+1498,solution scalability
+1499,Product Roadmap
+1500,distributed cloud-native applications
+1501,Technical fluency
+1502,Desired Technical Proficiencies
+1503,the Agile teams
+1504,solution scalability
+1505,Product Roadmap
+1506,distributed cloud-native applications
+1507,Technical fluency
+1508,Desired Technical Proficiencies
+1509,the Agile teams
+1510,solution scalability
+1511,Product Roadmap
+1512,distributed cloud-native applications
+1513,Technical fluency
+1514,Desired Technical Proficiencies
+1515,the Agile teams
+1516,solution scalability
+1517,Product Roadmap
+1518,distributed cloud-native applications
+1519,Technical fluency
+1520,Desired Technical Proficiencies
+1521,the Agile teams
+1522,an Agile environment
+1523,similar Agile tools
+1524,Agile project management
+1525,Linux administration
+1526,Bash / Python
+1527,Elastic/Splunk
+1528,New Relic/AppDynamics
+1529,public cloud operators
+1530,Advanced troubleshooting
+1531,Create / Update puppet code
+1532,Shotgrid API tracking software
+1533,REST API’s and micro-services architecture
+1534,Data Lake and digital platform capabilities
+1535,cloud offerings
+1536,cloud environments
+1537,API layers
+1538,appropriate security mechanisms
+1539,Terraform and AWS console
+1540,Lead data platform governance
+1541,Data Lake and digital platform capabilities
+1542,cloud offerings
+1543,cloud environments
+1544,API layers
+1545,appropriate security mechanisms
+1546,Terraform and AWS console
+1547, Lead data platform governance
+1548,container-based architectures
+1549,multiple Agile development teams
+1550,leading cloud providers AWS
+1551,Development LifeCycle
+1552,a DevOps engineer
+1553,container-based architectures
+1554,multiple Agile development teams
+1555,leading cloud providers AWS
+1556,Development LifeCycle
+1557,a DevOps engineer
+1558,Java.. Experience
+1559,Agile tools
+1560,Master’s Degree and/or vendor certifications
+1561,Microsoft Certified Professional
+1562,Big data implementations
+1563,Apache stack
+1564,SQL and Performance tuning
+1565,Scheduler Tools
+1566,Advanced Analytics Models implementations
+1567,Self-starter attitude
+1568,"a Hybrid Environment, Oracle, and Big Data environments"
+1569,Program SDTM
+1570,statistical analysis tables
+1571,internal and client statisticians
+1572,routine and occasionally complex analytical skills
+1573,Good Clinical Practice and ICH guidelines
+1574,Program SDTM
+1575,statistical analysis tables
+1576,internal and client statisticians
+1577,routine and occasionally complex analytical skills
+1578,Good Clinical Practice and ICH guidelines
+1579,Program SDTM
+1580,statistical analysis tables
+1581,internal and client statisticians
+1582,routine and occasionally complex analytical skills
+1583,Good Clinical Practice and ICH guidelines
+1584,system performance optimizations
+1585,performance-oriented data structure/algorithm development
+1586,high performance networked systems
+1587,a Linux and/or embedded systems environment
+1588,system performance optimizations
+1589,performance-oriented data structure/algorithm development
+1590,a Linux and/or embedded systems environment
+1591,OS fundamentals
+1592,network security fundamentals
+1593,new and current frontend and/or backend systems
+1594,GraphQL and/or Apollo Client
+1595,Solutions Azure Cloud
+1596,Azure Datalake
+1597,Strong JavaScript skills
+1598,RESTful API design
+1599,NoSQL database technologies
+1600,standard AWS technologies
+1601,NoSQL DBs
+1602,AWS services
+1603,Unix/Linux environments
+1604,Agile Software Development
+1605,DevOps tools
+1606,Key Competencies/Skills   Strong programming skills
+1607,Linux/Unix Environment
+1608,Cloud testingTeradata Database Knowledge
+1609,Salesforce Developer Certified
+1610,Advanced proficiency
+1611,pairing and code reviews
+1612,documentation accomplishment
+1613,test and demonstration events
+1614,API backends
+1615,UI solutions
+1616,Agile SCRUM team
+1617,testing automation
+1618,other Agile SCRUM team members
+1619,all Agile ceremonies
+1620,Exhibits DevOps mindset
+1621,Agile SCRUM team
+1622,Agile SCRUM team
+1623,User Personas
+1624,Quarterly Architecture Summits
+1625,UI Development
+1626,UI libraries
+1627,User behaviors
+1628,UI performance
+1629,Agile Management Tools
+1630,Java development
+1631,firmware and software requirements
+1632, Unit Test frameworks
+1633, (Desirable) – Test development experience
+1634,ServiceNow Developer Responsibilities
+1635,Catalog Items
+1636,UI Policies
+1637,UI actions
+1638,ServiceNow applications
+1639,ServiceNow Applications
+1640,ServiceNow Service Catalog
+1641,inbound and outbound API integrations
+1642,API integrations
+1643,ServiceNow's ITSM service catalog
+1644,Expertise level understanding
+1645, Expertise level programming skills
+1646,UI Actions
+1647,the ServiceNow system
+1648,ServiceNow client
+1649,the ServiceNow APIs
+1650,Scripted Web-Services
+1651,Custom UI Changes
+1652,ServiceNow ITSM modules - Incident Management
+1653,Configuration Management
+1654,other ITSM application
+1655,the ServiceNow schema
+1656,technical and functional design requirements
+1657,ServiceNow platform capabilities
+1658,Java / J2EE web (UI) applications
+1659,Core Java
+1660,Java/J2EE
+1661,SQL/PLSQL
+1662,Core Java code
+1663,Java Collections
+1664,and Layer 3 protocols
+1665,no-SQL datastores
+1666,their US counterpart
+1667,JavaScript frameworks
+1668,UI/UX design
+1669,Messaging concepts
+1670,.. DevOps concepts
+1671,clean and well documented code
+1672,Amazon.com
+1673,Agile development
+1674,Master’s degree
+1675,SQL and NoSQL databases
+1676,.. Self-starter and resourceful individual
+1677,Google APIs
+1678,Master’s degree
+1679,Next.js
+1680,UI quality tools
+1681,Cloud Service Providers
+1682,AWS / Azure / GCP
+1683,an Agile environment
+1684, Lead standup meetings
+1685,API design reviews
+1686,Amazon AWS
+1687,product management and analytics teams
+1688,Amazon AWS
+1689,great UI/UX
+1690,Next.JS
+1691,junior and intermediate developers
+1692,performance optimization
+1693,product management and analytics teams
+1694, Lead standup meetings
+1695,Amazon AWS
+1696,BI/analytics
+1697,product management and analytics teams
+1698,Apache Spark
+1699,BI/analytics tools
+1700, Provision cloud-based resources
+1701,infrastructure basics
+1702,great UI/UX
+1703,Next.JS
+1704, A strong coder
+1705,infrastructure basics
+1706,secure Cloud architectures
+1707,container orchestration solutions
+1708, BS/BA or equivalent work experience
+1709,secure Cloud architectures
+1710,container orchestration solutions
+1711, BS/BA or equivalent work experience
+1712,secure Cloud architectures
+1713,container orchestration solutions
+1714, BS/BA or equivalent work experience
+1715,secure Cloud architectures
+1716,container orchestration solutions
+1717, BS/BA or equivalent work experience
+1718,Python and serverless solutions
+1719,AWS Lambda
+1720,Kubernetes Jobs
+1721,Kubernetes clusters
+1722,DevOps or SRE roles
+1723,/B Testing deployment
+1724,simple and elegant solutions
+1725,web UI technologies
+1726,Agile development practices
+1727,Python and serverless solutions
+1728,AWS Lambda
+1729,Kubernetes Jobs
+1730,Kubernetes clusters
+1731,DevOps or SRE roles
+1732,/B Testing deployment
+1733,Python and serverless solutions
+1734,AWS Lambda
+1735,Kubernetes Jobs
+1736,Kubernetes clusters
+1737,Engaging and mentoring team members
+1738,DevOps or SRE roles
+1739,Python and serverless solutions
+1740,AWS Lambda
+1741,Kubernetes Jobs
+1742,Kubernetes clusters
+1743,Engaging and mentoring team members
+1744,DevOps or SRE roles
+1745,Java or Java-based tools
+1746,Troubleshoot and triage post production issues
+1747,Intermediate Software Developer
+1748,API development
+1749,Linux and Windows development environments
+1750,Cloud/Edge computing
+1751,network security protocols
+1752,Software Defined Radios
+1753,the Enterprise Architect framework
+1754,Agile Teams
+1755,Cloud Computing
+1756,transactional and analytical systems
+1757,Enterprise Architecture roles
+1758,similar Enterprise Architecture certifications
+1759,cloud computing
+1760,Agile methodologies
+1761,current and future workflows
+1762,the Quality Assurance team
+1763,the Microsoft technology stack
+1764, Knowledge and experience with Angular    ·  Experience
+1765,Scrum and backlog management tools
+1766,"up to $4,000/year"
+1767,frontend UI/UX applications
+1768,API development
+1769,UI/UX applications
+1770,UI/UX applications
+1771,Linux/Windows OS platforms
+1772,Web/Cloud/SaaS based solutions
+1773,UI/UX applications
+1774,Java/JavaScript
+1775,Experience interfacing test equipment
+1776,cloud/web/mobile-based and IoT applications development
+1777,Cloud/Edge computing
+1778,network security protocols
+1779,Software-Defined Radios
+1780,Net Core/SQL
+1781,design and brainstorming sessions
+1782,SQL Server
+1783,Agile development
+1784,technical and non-technical audiences
+1785,clean and maintainable code
+1786,swift and consistent resolutions
+1787,Lifecycle Management Suite
+1788,Loan Origination
+1789, Ø   Web application experience
+1790,Ø    Customer Support Experience
+1791,  ·        Software Proficiency
+1792,API testing and database systems concepts
+1793,procurement and development efforts
+1794,functional and non-functional requirements
+1795,Azure DevOps/Visual Studio Team Services
+1796,Microsoft SQL
+1797,Data Driven frameworks
+1798,Cross-browser testing
+1799,Azure Devops pipelines
+1800,Agile frameworks
+1801,Agile Test methodologies
+1802,Product Mangers
+1803,a Service-Oriented Architecture
+1804,current and future workflows
+1805,the Quality Assurance team
+1806,Scrum and backlog management tools
+1807,modern DevOps practices
+1808,Android SDK
+1809,old Java code
+1810,Android SDK understanding
+1811,AWS infrastructure
+1812,"(SQS, Lambda, S3"
+1813,our Amazon Redshift database
+1814,Apache Airflow
+1815,Amazon Lambda
+1816,JavaScript framework
+1817,Object-oriented Programming Concepts
+1818,testing methodologies
+1819,Other scripting languages
+1820,Android SDK
+1821,Android SDK understanding
+1822,configuration management solutions
+1823,a security-first mindset
+1824,VPN infrastructure maintenance
+1825,Linux networking
+1826,Agile global technology team
+1827,Application & System Performance tuning
+1828,internal and external stakeholders
+1829,Object Oriented Programming
+1830,User Interface design
+1831,such SQL Server
+1832,unit and integration test scripting
+1833,testing methodologies
+1834,Agile Methodology
+1835,Apache Maven
+1836,Content Repository API
+1837,New Relic
+1838,MySQL and database design
+1839,SCRUM / Agile methods
+1840,GIT version control
+1841,Fast learner
+1842,Self Starter
+1843,Create and present quality dashboards
+1844, Advanced SQL
+1845,Tableau/Power BI
+1846,Big Query
+1847,technical and non-technical stakeholders
+1848,all Agile rituals
+1849,API automation tests
+1850,automation Web GUI tests
+1851,the Testing Pyramid
+1852,CAD software packages
+1853,SAS programs
+1854,Functional and Technical Specifications
+1855,Systems Analysts
+1856,BASE SAS products
+1857,analytical and communication skills
+1858,DB programming
+1859,AI based technical solutions
+1860,an Agile delivery team
+1861,an Agile (Scrum/Kanban) environment
+1862,A Bachelor’s degree
+1863,Web API
+1864,Object Relational Mappers
+1865,Object-Relational Mappers
+1866,General cloud-computing concepts
+1867,SQL Server
+1868,an Object Oriented language
+1869,Hardware / Software integration experience
+1870,Agile Software Development - e.g. Sprint planning
+1871,accurate and timely responses
+1872,Bereich Software-Engineering
+1873,Software-Lösungen
+1874,Integrations-Tests
+1875,Cloud Engineer oder
+1876,DevOps-Tools
+1877,Bereich Cloud Engineering
+1878,AWS-Umfeld
+1879,IT-Service Management Modell
+1880,Multi-Domain Operations (MDO) warfighting capabilities
+1881,Agile teams
+1882,NoSQL databases
+1883,Azure Education
+1884,Linux/MacOS/Windows platforms
+1885,Active Directory/LDAP
+1886,Windows specific libraries
+1887,network-security fundamentals
+1888,Software Architects
+1889,Software Architects
+1890,Object-oriented programming and design concepts
+1891,infrastructure availability
+1892,hardware and software configuration
+1893,UI/UX
+1894,new and existing functionality
+1895,technical and process innovations
+1896,JSON Web Token
+1897,A knack
+1898,modern JavaScript development toolset
+1899,RESTful Web API design
+1900,an Agile/Scrum development process
+1901,Tech - NFR
+1902,Tech - Code quality and coding standards
+1903,Tech - Agile Methodology
+1904,Tech - Analytical \ Problem Solving
+1905,Data Engineering and Data Governance teams
+1906,the C-UAS team
+1907,new and efficient architectures
+1908,Object-Oriented languages
+1909,Windows and Linux environments
+1910,modern JavaScript/TypeScript
+1911,C#/Java
+1912,consistent and cohesive messaging
+1913,dynamic and reliable user experiences
+1914,JavaScript/Typescript
+1915,other container based tools
+1916,any Object-Oriented coding language
+1917,cloud data warehouse structures
+1918,AI/ML applications
+1919,data cloud zones
+1920,AWS-based data services technologies
+1921,internal and external partner integrations
+1922,smart and motivated engineers
+1923,CS data structures
+1924,relational and NoSQL databases
+1925,Master’s degree
+1926,Grails and Spring boot
+1927,A bachelor’s degree
+1928,SAP BW
+1929,SAP HANA
+1930,SAP Business Objects BI development tools
+1931, SAP S/4HANA experience
+1932, Big Data  Cloud Technologies  Open Source Technologies  Predictive Analysis  Machine Learning
+1933,debugging and code analysis tools
+1934,Kotlin.. Experience
+1935,the Agile methodology
+1936,Advanced debugging experience
+1937,an Agile delivery team
+1938,an Agile (Scrum/Kanban) environment
+1939,A Bachelor’s degree
+1940,UI/UX best practices
+1941,flexbox and CSS grid
+1942,security considerations
+1943,"C#, ASP.NET/Web API"
+1944,SQL Server
+1945,"Framework 4.0,4.5"
+1946,.. API design
+1947,Express.js
+1948,EPI2ME analysis reports
+1949,Report Builder
+1950,Report Builder
+1951,Cloud platform deployment
+1952,Embedded software development
+1953,Key Accountabilities
+1954,Apache Beam
+1955,DevOps / SRE
+1956,Microsoft SQL Server
+1957,Azure knowledge
+1958,Google Analytics UA/GA4
+1959,robust and consistent data
+1960,Google Analytics
+1961,Google Optimise
+1962,documentation skills
+1963,Agile development methodologies
+1964,Java/J2EE technologies
+1965,an Agile development environment
+1966,any API management tool
+1967,security investigators
+1968,Programming and prototyping skills
+1969,rigorous Functional Safety and Cyber Security cases
+1970,logical and implementation levels
+1971,Functional Safety and Cyber Security analysis
+1972,verification and validation activities
+1973, A problem solver
+1974,tablet and phone applications
+1975,budgetary and time constraints
+1976,Self-starter
+1977,Embedded and structural composites
+1978,Sensing and data acquisition
+1979,Key outputs
+1980,EHS policy
+1981,A relevant accredited Engineering Degree
+1982,PLM software
+1983,general SQL experience
+1984,Develop and mature systems designs
+1985,"Science, engineering or maths based educational background"
+1986,Guidewire DataHub/InfoCenter Platform
+1987,SQL Server/Oracle databases
+1988,Guidewire ClaimCenter/
+1989,Guidewire PolicyCenter
+1990,SAP BODS ETL design
+1991,Data Warehousing
+1992,Data Specifications
+1993,DataHub and InfoCenter Initial loads
+1994,DataHub and InfoCenter Guidewire Commit and Rollback utility
+1995,Ref & Config Data spreadsheet maintanence
+1996,Scheduling loads
+1997,SAP BODS workflows
+1998,Microsoft SQL complex queries
+1999,SAP BODS administration
+2000,Data Modelling Experience
+2001,security tool integrations
+2002,Cloud Security Architect
+2003,security backlog
+2004,Cloud-native authentication and vaulting mechanisms
+2005,Java and Javascript applications
+2006,scalable security solutions
+2007,both cloud-agnostic and cloud native security tools
+2008,automated security processes
+2009,Managed Detection and Response solution
+2010,documentation deliverables
+2011,risk management framework concepts
+2012,Rackspace Elastic Engineering
+2013,Cybersecurity and/or Information Technology
+2014,vulnerability management tools
+2015,public cloud environments
+2016,Application/IOT Security knowledge
+2017,a  Cloud Support Engineer - Database Security and Authentication Management
+2018,organizational and process improvements
+2019,Salesforce Service cloud
+2020,SQL queries
+2021,public cloud providers
+2022,SQL Python
+2023,cloud computing concepts
+2024,IAM systems
+2025,broader cloud security technologies
+2026,NextGen FW
+2027,Rest API Calls
+2028,advertising and analytics platforms
+2029,Hybrid mobile app or native iOS/Android development experience/familiarity
+2030,relational and non-relational databases
+2031,Automation Frameworks
+2032,Google Analytics
+2033,Adobe Analytics
+2034,Data Visualization
+2035,Data and Analytics specialists
+2036,Relationship and rapport building
+2037,Microsoft technology stack
+2038,Agile environment
+2039,consumer and enterprise facing products
+2040,SQL Server
+2041,SQL server
+2042,DSP Product Managers
+2043,Experience managing business and engineering stakeholders
+2044,creative and detailed execution
+2045,permanent and third-party Case Management System Developers
+2046,MS Office automation
+2047,(Excel/Word/Access
+2048,an Agile environment
+2049,Experience building deployment automation
+2050,AWS-hosted services
+2051,DevOps/SRE experience
+2052,OOP and code design
+2053,MySQL databases
+2054,exciting and robust systems
+2055,MySQL optimisation
+2056, Relational and object database systems
+2057, SW performance awareness
+2058,Master’s degree
+2059,Cardinal Health India
+2060,an Agile environment
+2061,high-performance robust production applications
+2062,automated testing methodologies
+2063,cloud computing technologies
+2064,security scans
+2065,Agile (Scrum) project methodologies
+2066,Core Java
+2067,Java frameworks
+2068,an Equal Opportunity/Affirmative Action employer
+2069,Strong CS fundamentals
+2070,"the Internet-, intranet-, or extranet-based applications"
+2071,SQL Server
+2072,Microsoft .NET Framework
+2073,Microsoft SQL Server database objects
+2074,Azure development
+2075,Web API
+2076,SQL Server - DB Modeling and Database programming
+2077,Entity Framework Core and Entity Framework
+2078,Azure Services - App Services
+2079,Application Insights
+2080,Web Services/REST API /RFC/ODATA
+2081,Deployment - IIS/Azure
+2082,Agile development experience
+2083,"Credible, Customer Focus"
+2084,Blazor. Design/architectural patterns -MVC
+2085,Azure CI/CD Pipeline
+2086,Azure Services - Azure Functions
+2087,Azure Database
+2088,SAP integration
+2089,Agile methodologies
+2090,Design/architectural patterns - Microservices
+2091,Service-Oriented Architecture
+2092,DevOps techniques
+2093,AWS Sagemaker
+2094,"high-performance, highly-available and scalable distributed systems"
+2095,AWS technologies
+2096,an Agile environment
+2097,servers/software/applications
+2098,Linux/Unix environments
+2099,Linux users
+2100,hands-on experience troubleshooting server class hardware
+2101,Upgrades/System configuration/System patching
+2102,Application patching
+2103,Automation Script Development
+2104,Incident Triage
+2105,Linux Users
+2106,Java Application Administration
+2107,Cloudera Hadoop Administration
+2108,other container management
+2109,A habitual Problem solver
+2110,Android SDK
+2111,Android UI design principles
+2112,performance tuning
+2113,active Agile/Scrum development methodology experience
+2114,Java based microservice
+2115,Reliable and Serviceable Object-Oriented systems
+2116,Agile/Scrum development methodologies
+2117,DevOps environment
+2118,Microsoft Web Technologies
+2119,Web API
+2120,Net Core Web Api
+2121,Object Oriented Programming concepts
+2122,Entity Framework / EF Core
+2123,Strong SQL development skills
+2124,SQL Server
+2125,Azure Services
+2126,Azure Web apps
+2127,App Insights
+2128,Azure SQL
+2129,Object Relational Model
+2130,SQL Server
+2131,Azure platform
+2132,Release Orchestration tool
+2133,Microsoft stack
+2134,Object Oriented Programming principles
+2135,configuration and design tools
+2136,Web (MVC) based applications
+2137,Java Script
+2138,SQL Server
+2139,master and transactional data
+2140,improvement and delivery pipelines
+2141,B.Tech/B.E/M.C.A/M.Tech/MS. - Computers
+2142,Microsoft SQL Server
+2143,Azure SQL Database.. Experience creating
+2144,T-SQL Stored Procedures
+2145,Azure Data Factory
+2146,the Agile software development methodology
+2147,Azure DevOps
+2148,cloud architectures
+2149,Microsoft Azure.. Experience
+2150,Siemens EDA AMS software
+2151, Customer Focus - Cultivating strategic customer relationships
+2152,personal and/or group accomplishment
+2153, Job Knowledge - Exhibiting industry best practice knowledge
+2154,Experience coding
+2155,Object-Oriented PHP
+2156,Application frameworks
+2157,Semantic markup
+2158,build and deployment pipelines
+2159,DevOps environments
+2160,cloud resource creation scripts
+2161,the Power Platform ecosystem
+2162,Azure technology - ability
+2163,Azure components
+2164,Azure functions
+2165,Azure Devops
+2166,Azure CLI
+2167,D365 API.. experience
+2168,planned Schedules/workload
+2169, Customer and supplier management
+2170,MS PowerApps
+2171,MS PowerAutomate
+2172,Agile-driven software development
+2173,other IDE environments
+2174,Agile software development methodologies
+2175,"Self-motivated, desire"
+2176,Continuous Delivery solutions
+2177,an Agile environment
+2178,staging and production environments
+2179,DevOps experience
+2180,SQL Server
+2181,Java Script
+2182,Agile development
+2183,Agile Software development work
+2184,robust and scalable features
+2185,Agile Software Development
+2186,A strong familiarity
+2187,Web Server technologies
+2188,Linux/Unix
+2189,NoSQL databases
+2190,Experience coding
+2191,JavaScript/TypeScript
+2192,Agile teams
+2193,cloud native event-driven microservices-based architectures
+2194,Lambda functions
+2195,GitHub Actions
+2196,Cloud Foundry
+2197,Agile methods
+2198,Vendor certification
+2199,company and industry methodologies
+2200,Computer Science and/or Computer Engineering fundamentals
+2201,Salesforce Sales Cloud
+2202,"the Salesforce Platform (Apex, Lightning"
+2203,Lightning Web Component
+2204,an IT Infrastructure Library (ITIL) framework
+2205,application and integration middleware
+2206,"Angular, Single-SPA) and back end environments"
+2207,Java Spring Boot
+2208,Java Spring Boot
+2209,", Angular, Single-SPA"
+2210,other DB technology familiarity
+2211,Kubernetes Cluster admin functions
+2212,Adobe Photoshop
+2213,Internet Explorer
+2214,Search engine optimization
+2215,Web fonts
+2216,Custom loops
+2217,Custom taxonomies
+2218,Advanced / customized search Working
+2219,HTML5 Boilerplate
+2220,UI developer
+2221,JavaScript expert
+2222,UI layouts
+2223,JavaScript frameworks
+2224,popular JavaScript-based tools
+2225,Chrome Developer Console
+2226,Object-Oriented CSS principles Development
+2227,integration and operations technical dependencies
+2228,Design and setup monitoring
+2229,/supporting Kubernetes based environments
+2230,multiple Database technologies
+2231,Microsoft SQL Server
+2232,Microsoft IIS experience
+2233,new AWS technologies
+2234,Cluster technology
+2235,AWS capabilities
+2236,Cloud Computing
+2237,Cloud Assessment Technologies
+2238,Hadoop or object storage
+2239,Data ingestion
+2240,Data Warehouse related projects
+2241,Hadoop or Object storage
+2242,strong SQL knowledge
+2243,diverse and geographically distributed project teams
+2244,BS/MS degree
+2245,Java Spring
+2246,Agile principles
+2247,UI / User Experience Design
+2248,technological and process innovation
+2249,BS/MS degree
+2250,Java Spring
+2251,Agile principles
+2252,UI / User Experience Design
+2253,technological and process innovation
+2254,BS/MS degree
+2255,Java Spring
+2256,Agile principles
+2257,UI / User Experience Design
+2258,technological and process innovation
+2259,Firmware and Application Architects
+2260,C++ embedded programming experience
+2261,Embedded Linux development
+2262,BMS systems
+2263,Oracle / Sybase
+2264, Query language abstraction
+2265,EJB QL
+2266,XQuery..  API Experience
+2267,Java persistence
+2268, Unix and scripting experience
+2269,build and Continuous integration tools
+2270,A beautifully crafted gaming experience
+2271,A solid grasp
+2272,CS/Engineering
+2273,an Agile development
+2274,Agile methods
+2275,Microsoft SQL Server or Azure databases
+2276,DevOps practices
+2277,an Agile team
+2278,a 5G gNB
+2279,5G specifications
+2280,5G products
+2281,Agile environment
+2282,Linux OS
+2283,the BI Data Pipeline
+2284,data testing frameworks
+2285,BI Tools
+2286,analytical and problem-solving abilities
+2287,Cloud Data Warehousing
+2288,Data Modeling
+2289,a 5G gNB
+2290,5G specifications
+2291,5G products
+2292,Agile environment
+2293,Linux OS
+2294,existing and new GPU
+2295,2D and 3D graphics
+2296,A thorough understanding
+2297,Windows NT
+2298,Android and WebGL implementations
+2299,automotive and enterprise use cases
+2300,Agile Scrum
+2301,cloud computing
+2302,core OS research
+2303,System-level QNX
+2304,embedded and real-time systems development
+2305,signal processing algorithms
+2306,Linux/Android embedded environment
+2307,C and Assembly programming languages
+2308,a Software Quality Engineer / Test Analyst
+2309,Agile methodologies
+2310,documentation reviews
+2311,batch and real-time
+2312,escalating testing issues
+2313,Agile and Waterfall models
+2314,testing and defect management tools
+2315, Performance and Regression testing
+2316,an Agile Person
+2317,modern JavaScript Fundamentals
+2318,(Core/ES5/ES6
+2319,Testing accessibility
+2320,cross-device compatibility
+2321,geographically and culturally diverse Agile scrum teams
+2322,RESTful API designs
+2323,Adobe Experience Manager
+2324,Adobe Analytics
+2325,Adobe DTM
+2326,Adobe Target
+2327,Mobile Angular
+2328,naval and commercial platforms
+2329,Testing Frameworks
+2330,React-Testing-Library
+2331,Java/PHP
+2332,"Python, Java & JavaScript experience"
+2333,scale and relational database schema design
+2334,our Cloud Data Pipelines
+2335,our Cloud Data Pipeline strategy
+2336,Apache Spark
+2337,Data Schemas
+2338,operational and analytics use cases
+2339,API Gateway
+2340,IVR Run Support
+2341,SQL Scripting
+2342,Oracle database
+2343,SQL Scripting
+2344,Word or PDF format
+2345,development and production environments
+2346,innovative testing technologies
+2347,automation testing and testing tools
+2348,A creative mindset
+2349,an Agile/Scrum development process
+2350,Security and Penetration Testing
+2351,AWS/ Azure/ GCP/ Kubernetes
+2352,turret and mission system projects
+2353,verification and validation procedures
+2354,Work Order EIDL
+2355,Procurementand Program Management Office
+2356,military and commercial maritime standards
+2357,Java Stack
+2358,Java 8 Streams
+2359, Web Flux/Project Reactor experience
+2360,OpenShift/Kubernetes
+2361,documentation requirements
+2362,software and hardware availability
+2363,Database query
+2364,No- SQL database
+2365,Java Android experience
+2366,Object-Oriented Design
+2367,DevOps/Continuous Integration/Continuous Delivery/Infrastructure
+2368, Setup test environment
+2369,software Engineer QA
+2370,HP Test tools
+2371,Technical and Process Documentation
+2372,testing guidelines/methodologies
+2373,Associate Lead Software Engr
+2374,QA and database functions
+2375, Technical presentations
+2376,Billing and Roaming domain skills
+2377,Mercury Test Director
+2378, Strong Backend and Front-end testing experience
+2379,testing and troubleshooting techniques
+2380,Software modules
+2381,Messaging domain
+2382,Linux/Windows Operating System concepts
+2383,Billing and Roaming domain skills
+2384,Mercury Test Director
+2385,Incident Tracking and Reporting tool
+2386, Strong Backend and Front-end testing experience
+2387,testing and troubleshooting techniques
+2388,Quality Assurance
+2389,Automated Testing
+2390,Enterprise Class and Financial application and web portals
+2391,UI Automation
+2392,JavaScript/Typescript libraries
+2393,API testing
+2394,robust and flexible Automated Testing Framework
+2395,specifically cloud testing execution
+2396,Selenium Web driver
+2397,Agile methodologies
+2398,Design and Architect Solutions
+2399,Coach and Mentor developers
+2400,Microsoft Azure platform
+2401,Azure SQL
+2402,Azure AD Authentication/Authorization
+2403,Experience building cross browser applications
+2404,XML/JSON
+2405,SQL Server
+2406,Service-oriented Architecture
+2407,packaged and custom software development environments
+2408,Object-oriented design
+2409,XML/XSLT document design
+2410,JavaScript development
+2411,Data Insights
+2412,the Software Product Development Lifecycle
+2413,Agile methodology
+2414,Native App Lead Developer
+2415,"JavaScript/, OOPS concepts"
+2416,(Android/iOS Platform
+2417,unit testing frameworks
+2418,performance tuning
+2419,Android Developer Studio Lite DatabaseSQLite
+2420,the DevOps and Automation Community
+2421,Linux/Unix System environments
+2422,•	A Qualification
+2423,the DevOps and Automation Community
+2424,Linux/Unix System environments
+2425,•	A Qualification
+2426,Research Assistant Level - Undergraduate degree
+2427,"Python, C/C++"
+2428,cloud computing platforms
+2429,Agile Software Development
+2430,Aftermarket & Fleet business
+2431,Troubleshooting and customer support
+2432,CAD technical drawings
+2433,Web Test and Web Test Automation
+2434,Azure DevOps
+2435,Agile teams
+2436,Agile methodologies
+2437,a Lead full-stack developer
+2438,Bootstrap and/or Express API
+2439,cloud providers - AWS
+2440,functional and integration tests
+2441,Clinical Data Repository
+2442,Angular and Restful API
+2443,greenfield and innovation projects
+2444,SQL Server
+2445,Invoice handling
+2446,QA and debug code
+2447,Critical and methodical thinking
+2448,Microsoft Excel
+2449,the Agile manifesto
+2450,most AWS technologies
+2451,cloud database management technologies
+2452,AWS Well Architected Framework
+2453,AWS native technologies
+2454,•	AWS automation
+2455,•	AWS Security
+2456,•	Continuous Integration Pipelines
+2457,DevOps processes
+2458,Web Application Frameworks
+2459,Java Applications
+2460,modern DevOps tooling
+2461,Agile software development principles
+2462,reusable and scalable enterprise application assets
+2463,Java/JEE
+2464,Java/JEE
+2465,Designing User Interface
+2466,MS SQL
+2467,Object-Orientated Programming
+2468,The Java Developer
+2469,Boot / Security / Data JPA / Data Elasticsearch / Kafka
+2470,Git / Azure Devops / Jenkins / Bamboo
+2471,a DevOps environment
+2472,Kotlin - RESTful APIs - GIT - Android Studio - Debugging - Software development lifecycle
+2473,ASP.Net/C# MVC Pattern Javascript CSS SQL
+2474,6-8 Developers/Testers
+2475,API development
+2476,JavaScript/jQuery
+2477,/ WebServices / WebForms
+2478,SQL Server and SQL databases
+2479,Cloud-based development expertise
+2480, HTML and CSS standards
+2481,Salesforce technologies
+2482,Lightning Web Client
+2483,SQL databases
+2484,performance optimization
+2485, Advanced JavaScript framework experience
+2486, Dev experience
+2487,modern JavaScript frameworks
+2488,internal and external stakeholders
+2489,an Agile and Product led environment
+2490,desktop infrastructure incidents
+2491,Java programming
+2492,J2EE and web frameworks
+2493,Professional IT Certification.. Ability
+2494,Strong CS/algorithms fundamentals
+2495,Azure Storage
+2496,(ideally Azure Functions
+2497,Azure Webjobs
+2498,Apache Spark
+2499,routine and project workloads
+2500, Strong documentation skills
+2501,naval and commercial platforms
+2502,our Tech stack
+2503,Event sourcing
+2504,Automated testing
+2505,API documentation
+2506,Knowledge / willingness
+2507, Strong SQL skills
+2508, Linux administration
+2509, Neo4J and non relational databases
+2510, Microsoft Azure
+2511,Design embedded software
+2512,Design automated solutions
+2513,A qualification
+2514, Embedded microprocessor design
+2515, Embedded software design
+2516,SQL databases
+2517,RESTful API development
+2518,an eCommerce company
+2519,Object-Oriented PHP
+2520,cloud infrastructure strategies
+2521,the AWS ecosystem
+2522,Experience designing
+2523,scalable cloud-based architectures
+2524,infrastructure provisioning
+2525,process redesign
+2526,the Service Catalog
+2527,the ServiceNow platform
+2528,Service Catalog items
+2529,Server-side scripts
+2530,UI Actions
+2531,UI Policies
+2532,Service Portal
+2533,ServiceNow development experience
+2534,performance bottlenecks
+2535,software performance tuning
+2536,SQL query optimization and database internals
+2537,Administered cloud service infrastructure
+2538,Test Technicians
+2539,subcontract and ancillary item purchase requisitions
+2540," A personable, professional individual"
+2541,an Agile development environment
+2542,the Agile team
+2543,Java Script
+2544,Bachelors: Management Information Systems
+2545,Bachelors: Information Technology
+2546,advanced hybrid azure cloud platform
+2547,DevOps engineer
+2548,our hybrid cloud services
+2549,Azure ARM Templates
+2550,cloud offerings
+2551,Azure cloud infrastructure
+2552,Azure cloud infrastructure
+2553,large Azure environments
+2554,Azure cloud solution
+2555,Azure Data Factory
+2556,Azure Synapse
+2557,Azure DataBricks
+2558,other Azure data service
+2559,Azure DevOps
+2560,GitHub Actions
+2561,Azure DevOps
+2562,Azure cloud
+2563,Apache Kafka
+2564,IBM's Case Manager
+2565,IBM FileNet administration
+2566,IBM FileNet
+2567,Content Navigator
+2568,IBM Enterprise Records
+2569,MS SQL databases
+2570,Windows servers
+2571,CA APM
+2572,Required: Experience writing client/server applications
+2573,C#/MVC/ASP.NET Core
+2574,Automated UI Testing
+2575,IoT data
+2576,Agile development processes
+2577,IoT products
+2578,Mobile development frameworks
+2579,API Gateway
+2580,BA/BS degree
+2581,AWS technologies
+2582,Strong Java skills
+2583,Object-oriented design experience
+2584,Dev Ops Systems engineering experience
+2585,performance troubleshooting
+2586,logical and physical data modeling
+2587,a Software Engineer IV (Holmdel
+2588,our Labs team
+2589,research and remedy complex issues
+2590,Dev Managers
+2591,Release and Sprint planning
+2592,Mentor Software Engineers
+2593,testing frameworks
+2594,AWS elastic beanstalk
+2595,Agile/SCRUM techniques
+2596,Fluent Object-Oriented Programming concepts
+2597,(Java/Kotlin/Scala/Clojure/Groovy
+2598,drive and good organisational skills
+2599,testing methodologies
+2600,container platforms
+2601,"Engineer build, deployment and release management procedures"
+2602,AWS resources
+2603,AWS services
+2604,Agile and DevOps environments
+2605,automated testing frameworks
+2606,modern cloud architectures
+2607,Linux/Unix command line
+2608,NoSQL.. Experience
+2609,AWS SDKs
+2610,complex and ambiguous requirements
+2611,actionable and technical deliverables
+2612,Database fundamentals
+2613,AWS RDS
+2614,AWS Aurora
+2615,AWS Sagemaker
+2616,mails and client calls
+2617,Experience/Qualifications 3-6 years
+2618,Azure DevOps
+2619,Agile Environments
+2620,Responsive and prompt communication
+2621,Proven and demonstrable evidence
+2622,Proven and demonstrable evidence
+2623,Object Oriented Development
+2624,Proven and demonstrable experience
+2625,Self starter
+2626,Java Microservices
+2627,UI engineers
+2628,Kafka.. Experience building cloud-based RESTful applications
+2629,Embedded Software
+2630,C/C++/C#/Ada
+2631, Software modelling tools
+2632,Scrum / Agile development
+2633,budget and schedule constraints
+2634,A Bachelor's degree
+2635,Adobe LiveCycle/Adobe Experience Manger/Workbench Preferred
+2636,Advanced troubleshooting skills
+2637,Software Product Design/Architecture Basic understanding
+2638,Stakeholder Focus - Basic understanding
+2639,Mainframe technologies
+2640,Java development experience
+2641,RSA Identity Governance
+2642,Lifecycle Suite
+2643,custom SOA workflows
+2644,internal and external stakeholders
+2645,NoSQL databases
+2646,HP Unified Functional Testing
+2647,SQL resources
+2648,Web Applications and/or Web Service environments
+2649,HP ALM
+2650,HP LoadRunner
+2651,Key Skill- Python
+2652,Testing and debugging applications
+2653,RESTApi Development Software Design paradigm knowledge
+2654,internal and external knowledge bases
+2655,Linux Systems
+2656,BTech/MS/MTech
+2657,development and design fundamentals
+2658,development and design fundamentals
+2659,Web API
+2660,development and design fundamentals
+2661,development and design fundamentals
+2662,NoSQL DB
+2663,Agile frameworks
+2664,cloud-based Python Django software products
+2665,Azure deployment experience
+2666,the AWS Cloud Architecture/solution
+2667,AWS service
+2668,cloud platform deployment and networking protocols
+2669,performance optimization
+2670,automated infrastructure deployment
+2671,AWS Services
+2672,AWS Cloud
+2673,Informatica Power center
+2674,Microsoft SQL
+2675,Linux and Windows OS
+2676,Software Licenses
+2677,AWS CodeBuild
+2678,AWS Services
+2679,Linux system administration
+2680,AWS Infrastructure Provisioning
+2681,AWS Services
+2682,Agile teams
+2683,agile and collaboration tools
+2684,3.6 years
+2685,Fundamentals Background
+2686,JEE Java Spring Development - Hands
+2687,Java/JEE
+2688,Open API Spec knowledge
+2689,Windows OS architecture
+2690,• NoSQL technologies
+2691,(C/C++/C#/Perl/Python/Java
+2692,Tech Stack
+2693,Azure/AWS
+2694,the Managed Cloud Shared Services Infrastructure team
+2695,the Oracle Cloud
+2696,the Oracle Cloud service portfolio
+2697,performance attributes
+2698,Application/DB admin and development Engineers
+2699,Oracle Cloud Infrastructure (OCI) experience
+2700,Dockers/GIT/Jenkins
+2701,management and vulnerability remediation
+2702,complex and highly scalable products
+2703,DataGuard and DR solution decisions
+2704,Java development environment
+2705,API Platform capabilities
+2706,External Identity Mapping
+2707,API common framework
+2708,Kubernetes/Azure
+2709,Open Source frameworks
+2710,continuous process improvement initiatives
+2711,new API products
+2712,new API products
+2713,WI infrastructure needs
+2714,the API Platform offering
+2715,Enterprise Cloud computing
+2716,IDE’s Spring Tool Suite
+2717,Continuous Integration/ Deployment
+2718,cloud-computing / cloud services platforms
+2719,Agile/Scrum methodology
+2720,Messaging Services
+2721,Core Java API development
+2722,AWS cloud services
+2723,Web socket
+2724, Asp.Net MVC
+2725, HTML5.0
+2726,Web APIs
+2727,fix and rollout issues / enhancements
+2728,SQL Stored Procedures
+2729,MS SQL Development
+2730,SQL Server Stored Procedures
+2731,SQL Server Reporting Services
+2732,SQL Server Integration Services
+2733,SQL Server Stored Procedures and SSIS packages
+2734,the Java Web Development Stack
+2735,Object Oriented Analysis
+2736,Java code
+2737,Apache Tomcat
+2738,Windows and Linux proficiency
+2739,Advanced Relational Database Concepts
+2740,ITSM - Incident Management
+2741,Service Portal
+2742,Service Catalog
+2743,UI Policy
+2744,UI Scripts
+2745,Integration Hub
+2746,ServiceNow System Administration Certified
+2747,the Android & IOS platform
+2748,UI flows
+2749,C++ - Shipped production code
+2750,ARM Cortex-M0/M3/M4
+2751,Google Cloud IoT
+2752,Informatica Big data Developer
+2753,Hadoop environment
+2754,Informatica Power exchange
+2755,Informatica Big data Developer
+2756,Informatica power exchange
+2757,      Excellent SQL knowledgeSoft
+2758,Microservice Architecture Concepts
+2759,Kafka(Event based model
+2760,any NoSQL Database
+2761,Cloud Platform - Docker / Kubernetes/ CI/CD/AWS
+2762,performance tuning
+2763,MS SQL Server
+2764,MySQL Knowledge
+2765,MS SQL
+2766,Azure DevOps offering
+2767,Azure Pipelines
+2768,performance tuning/improvement
+2769,Java development
+2770,Java EE platforms
+2771,Object Oriented analysis
+2772,JavaScript eco system
+2773,a Software Archtect/Lead
+2774,relational and document storage
+2775,container management systems
+2776,IBM ID
+2777,IBM Cloud/Azure/AWS
+2778,Micro Services architecture
+2779,Service Mesh
+2780,API-based integration
+2781,API Management solutions
+2782,clear and concise written communications
+2783, switching and routing protocols
+2784,· Internet protocols
+2785,· Virtualization experience
+2786,"Hook, JavaScript syntax Strong experience"
+2787,JavaScript Good Exposure
+2788,performant and scalable code
+2789,fundamental cloud computing architectural concepts
+2790,Dot Net Framework
+2791,SQL Database structure
+2792,SQL programming
+2793,Core API
+2794,DevOps / Engineering background
+2795,the Linux operating system
+2796,formal and informal settings
+2797,UI testing framework
+2798,Kubernetes based containers
+2799,Agile and SCRUM development techniques
+2800,Apache Cordova
+2801,Kubernetes based containers
+2802,Agile and SCRUM development techniques
+2803,Cloud-based data warehouse
+2804,technical and functional designs
+2805,Cloud Data Warehouses
+2806,advanced SQL scripting
+2807,DevOps • Experience
+2808,automated testing • Experience
+2809,cloud environments
+2810,container technologies
+2811,Agile Development
+2812,•Provision cloud resources
+2813,container technologies
+2814,UI frameworks
+2815,cloud environments
+2816,Agile software development methodology
+2817,Continuous Delivery practices
+2818,DevOps process
+2819,Self-reliant and Team player
+2820,Object Orientated Programming/Design
+2821,-	Communication stack
+2822, Microsoft certifications
+2823,    Technical Aptitude
+2824,Microsoft technology stack
+2825,various process automation recommendations
+2826,a Product Reliability & Sustenance Engineer
+2827,"our Engineering, PO, PSG, SRE, DevOps and L1 support teams"
+2828,Java stack
+2829,the Conversational AI market
+2830,UI tests
+2831,performance ·        Design interfaces
+2832,Core Java
+2833,File queuing
+2834,scalable and high performance systems
+2835,Linux commands
+2836,the Java/Scala based data pipelines
+2837,Unit Testing and Integration testing
+2838,Agile methodology
+2839,solution gaps
+2840,no SQL databases
+2841,Elastic Search
+2842,SQL databases
+2843,Chrome Dev Tools
+2844,UI optimizations
+2845,Azure Service
+2846,MS-SQL
+2847, DevOps Engineer  Location
+2848, Jaipur / Hybrid  Experience
+2849, 2-6 years  Qualification
+2850, B-Tech. / MCA
+2851,Kubernetes Certifications
+2852,Agile methodologies
+2853,analytics and data scientist team members
+2854,data and analytics experts
+2855,Docker & Cloud Containers with Kubernetes  • Experience
+2856,Google Cloud Platform/AWS/Azure
+2857,ANSI SQL paradigms
+2858,the Enterprise Architect space
+2859,Master Data management stacks
+2860,Agile process
+2861,current and future architectural plans
+2862,a DevOps focused team
+2863,an Agile Scrum team
+2864,Kubernetes clusters
+2865,Job Qualifications
+2866,Solid Linux OS system management
+2867,Kubernetes environments
+2868,Kubernetes clusters
+2869,Kubernetes API
+2870,Advantages Kubernetes configuration and management experience
+2871,AWS EKS setup
+2872,Kubernetes API
+2873,DOS prevention
+2874,Design client-side and server-side architecture
+2875,desktop and mobile applications
+2876,JavaScript frameworks
+2877,UI/UX design
+2878,Organizational skills
+2879,Java Spring Boot
+2880,Agile environments
+2881,SQL Server
+2882,Java/Core Java
+2883,Key Skills Linux
+2884,AWS/GCP
+2885,Configuration management tools
+2886,repeatable and audit-able processes
+2887,DevOps Platform architecture
+2888,DevOps roadmap
+2889,· Design and architect solutions
+2890,cloud environments
+2891,the cloud environments
+2892,"Design clean, elegant and extensible APIs"
+2893,: At least an undergraduate degree
+2894,Django Web Framework
+2895,Network admin experience
+2896,REST API framework
+2897,NoSQL databases
+2898,SDK development
+2899,Kotlin or Java programming
+2900,UI automation
+2901,API based web services experience
+2902,Core Java
+2903,Java Persistence API
+2904,the Clean Code Paradigm
+2905,other cloud environments
+2906,the DevOps culture
+2907,Object-Oriented Analysis
+2908,different testing frameworks
+2909,cloud environments
+2910,Good documentation habits
+2911,Infrastructure automation technologies
+2912,A good reading & comprehension ability
+2913,"
+         .Net Core Azure Developer   C#"
+2914,Azure.. Hands
+2915,Web API
+2916,SQL concepts
+2917,Requirement analysis and design principle understanding
+2918,Core ecosystem
+2919,JavaScript Dom manipulation Techniques
+2920,testing frameworks
+2921,debugging and problem-solving skills
+2922,stringent and tight deadline
+2923,Java / J2EE technologies
+2924,● Hands-on experience
+2925,Algorithms and Data structures
+2926,● Hands-on experience
+2927,● Hands-on experience
+2928,Java IO
+2929,● Hands-on experience
+2930,Java concurrency package
+2931,Apache zookeeper
+2932,A contributor
+2933,Microsoft Azure
+2934,Systems documentation
+2935,the iPhone SDK
+2936,iTunes App Store
+2937,AWS Greengrass
+2938,secure cloud system architectures
+2939,secure and robust solutions
+2940,cloud architecture concepts
+2941,modern cloud architectures
+2942,Penetration Testing
+2943,Vulnerability analysis
+2944,a Technical Support or Systems Admin role
+2945,UI components
+2946,Android Auto / CarPlay components
+2947,Android Auto / CarPlay
+2948,process mapping
+2949,process improvement initiatives
+2950,Java development experienceSkills
+2951,multiple and changing priorities
+2952,Gulp- Experience consuming REST APIs- TDD/BDD experience
+2953,Entity Framework core.-
+2954,MS SQL
+2955,Web API- Experience
+2956,SQL Server Reporting Services(SSRS
+2957,SQL Server Integration Services)-
+2958,Agile methodologies-
+2959,Azure Cloud
+2960,Web API
+2961,Designing and building application layers- Familiarity
+2962,Core Hosting servicesSecondary Skills
+2963,Advance Java concepts
+2964,RESTful and Soap Web services
+2965,written and verbal communication
+2966,JavaScript Framework
+2967,logical and physical data models
+2968,complex SQL scripts
+2969,Apache Airflow
+2970,Oracle DB
+2971,logical and physical data models
+2972,Data Warehouse data sets- Experience producing estimates
+2973,Java / Spring framework
+2974,* Guide and mentor team
+2975,Core Java
+2976,Agile-Scrum
+2977,cloud migration
+2978,/Object Oriented Programming concepts
+2979,AWS/GCP services
+2980,Linux operating system
+2981,Robot Operating System/Django web applications
+2982, Senior Engineer –Embedded Firmware
+2983,Test Automation leader
+2984,Emerson Innovation Center-
+2985, Analyze and debug system firmware/software functions
+2986, Architecture modelling
+2987,Project Metrics
+2988,Engineering Electronics / Instrumentation / System Software
+2989,Embedded firmware/software development
+2990,Embedded Firmware Developer
+2991,A willingness
+2992, Embedded Communication protocols
+2993,Analog and Digital Oscilloscope
+2994,comprehensive documentation- Ability
+2995,2 to 8 YearsBasic Qualifications
+2996,Offerings :- Hybrid Model- Offsites-
+2997,Paid Learning Programmes-
+2998,private and public cloud platforms
+2999,similar security frameworks
+3000,DevOps related practices
+3001,Swagger/Open API
+3002,our CRM platform
+3003,complex and responsive user interfaces
+3004,Object Oriented Programming
+3005,HTML5 CSS
+3006,Tech branding
+3007,Automated Deployments
+3008,Rich DevOps skills
+3009,coding and quality guidelines
+3010,a process-oriented software organization
+3011,Windows Desktop applications
+3012,Object Oriented Analysis
+3013,Standard platforms - expertise
+3014,Agile\Scrum development process
+3015,Requirement and Defect analysis
+3016,Requirement and Defect analysis
+3017,Core Java
+3018,Web API
+3019,automated testing platforms
+3020,Data Profiling
+3021,BS/MS degree
+3022,B.Tech/B.E.
+3023,MS/M.Sc(Science
+3024,SAP Business Objects
+3025,SQL development
+3026,SQL Server
+3027,SAP Business Object Enterprise Server administration
+3028,PRPC Rule Connect
+3029,Object Oriented Technology Knowledge
+3030,Java Message Service JNDI
+3031,debugging and troubleshooting activities
+3032,Cloud Service Providers
+3033,MS Azure
+3034,GitHub Pipelines
+3035,UX/UI design work
+3036,Senior Salesforce Commerce Cloud Developer
+3037,(Salesforce Commerce Cloud
+3038,reusable UI components
+3039,  ●    A Bachelor’s degree
+3040,Salesforce Commerce Cloud
+3041,●    Self-motivated problem solver
+3042,complex eCommerce environments
+3043,●    A solid understanding
+3044,modern JavaScript patterns
+3045,JavaScript/JQuery
+3046,the IdentityIQ product
+3047,SailPoint implementation partners
+3048,Web and Application Servers
+3049,identity management provisioning systems
+3050,a plus (usability testing
+3051,internal IT audit
+3052,/ Blockchain Development Lead
+3053,", At least one productionized blockchain experience"
+3054,3 to 4 yrs
+3055,Hyper Ledger Fabric architecture
+3056,multiple NoSQL databases
+3057,thoughtful and high quality code
+3058,GitHub/Gitlab
+3059,Service Line Application Development and Maintenance Additional Responsibilities
+3060,Java->Core Java
+3061,Java->Microservices
+3062,Technical->Oracle PL/SQL
+3063,Markup Language->Angular
+3064,Markup Language->NodeJS
+3065,Language->ReactJS
+3066,Technical->Oracle
+3067,Language->NodeJS
+3068,Java->Core Java
+3069,a Linux environment
+3070,standard DevOps principles
+3071,internal and client-defined agile software development processes
+3072,container orchestration technologies
+3073,Master’s degree
+3074,Java EE application development
+3075,IBM iSeries platforms
+3076,all IBM Utilities
+3077,"high-performance, efficient, maintainable software"
+3078,Object Oriented Analysis
+3079,Strong SQL Skills
+3080,technical and design documentation
+3081,Agile/Scrum methodology
+3082,the AWS technology platforms
+3083,reliable and maintainable database applications
+3084,Applications and deployment pipelines
+3085,a SQL Admin role
+3086,reliable and maintainable code
+3087,the Cloud and Salesforce engineering teams
+3088,Strong SQL Server & T-SQL experience
+3089,Strong Database admin experience
+3090,Microsoft SQL Server
+3091,Cloud computing
+3092,A self-starter and creative problem-solver
+3093,Salesforce development experience
+3094,Salesforce CRM certifications
+3095,Technical support provider
+3096,Customer Centricity
+3097,English Language skill - appropriate UK qualification
+3098,testing frameworks
+3099,Agile software development methodologies
+3100,mentorship and code reviews
+3101,Our Tech Stack
+3102,AWS / Azure
+3103,other Cloud certification
+3104,private-public cloud setups
+3105,Azure / AWS
+3106,AWS Cloud Computing
+3107,AWS Fargate
+3108,Agile principles
+3109,ERP and CRM systems
+3110,MS-SQL
+3111,Web API
+3112,accurate and relevant technical documentation
+3113,Azure DevOps
+3114,Microsoft Azure
+3115,Software Craftsmanship
+3116,simple and maintainable solutions
+3117,automated testing practices
+3118,cloud-native distributed systems
+3119,Agile and XP methodologies
+3120,Core Java Software Engineer
+3121,Backend applications development experience
+3122,cloud env
+3123,the Agile Scrum process
+3124,RESTful API Services
+3125,timely and meaningful feedback
+3126,debugging process results
+3127,automated testing tools
+3128,an Agile/Scrum development process
+3129,BS/MS degree
+3130,AWS technologies
+3131,API Gateway
+3132,Data Pipelines
+3133,Java and J2EE internals
+3134,EJB Life Cycle
+3135,Fluent Interface design pattern
+3136,intuitive Domain-Specific Language
+3137,Agile tools
+3138,Dev Ops
+3139,Google Workspace
+3140,A relevant technical/computing degree
+3141,Apex and Visual force
+3142,Salesforce’s Process Builder automation tool
+3143,Java/J2EE
+3144,Agile methodologies
+3145,Any Salesforce certifications
+3146,Boeing Standard Wire Practice Manual
+3147,PAX and/or Freighter reconfiguration projects
+3148,Strategic thinker
+3149,"Self-organized, self-motivated and self-starter"
+3150,Graduate Technical Consultant
+3151,At least ABB
+3152,A-Level or equivalent UCAS points
+3153,A motivated self-starter
+3154,Graduate Technical Consultant
+3155,JavaScript programming
+3156,A catalyst
+3157,Lloyds Banking Group
+3158,Jira and Confluence administration
+3159,Azure public cloud
+3160,Tomcat applications
+3161,DevOps pipeline
+3162,SQL Server Database concepts
+3163,Access Control installations
+3164,A meticulous eye
+3165,Gradle Android Studio
+3166,Customer focus/understanding Desirable requirements
+3167,the Data Engineering Teams' workflows
+3168,processing safeguards
+3169,Continuous Integration/ Continuous Deployment
+3170,J2EE Web Development and Spring Boot
+3171,API development
+3172,Agile methodology
+3173,Java Beans
+3174,reusable and highly maintainable code
+3175,responsive and adaptive design
+3176,Networking Concepts
+3177,Helpdesk/Service Delivery Applications
+3178,a Linux environment
+3179,Kotlin/Java
+3180,Android architecture components
+3181,Agile processes
+3182,Swift and iOS SDK
+3183,UI automation
+3184,performance tuning
+3185,cloud message APIs
+3186,UI Kit
+3187,AJAX API calls
+3188,Adobe Photoshop
+3189,Java.. Knowledge / experience
+3190,UNIX/Linux environments
+3191,testable and modular code
+3192,AWS Cloud Service offerings
+3193,Agile practices
+3194,A systematic and analytical approach
+3195,C#/.NET/ MVC
+3196,SQL databases
+3197,*A systematic and analytical approach
+3198,C#/.NET/ MVC
+3199,SQL databases
+3200,documentation review / revision
+3201,"functional, Agile teams"
+3202,A Bachelor’s degree
+3203,Servers/VMs
+3204,robotic process automation
+3205,Our Tech Stack
+3206,Your Tech Stack
+3207,cloud-based environments
+3208,Azure.. TDD
+3209,new and emerging technologies
+3210,EC&I design
+3211,GIT knowledge
+3212,UI testing
+3213,UI kit
+3214,Bash scripting
+3215,Agile environments
+3216,a Managed Service Provider
+3217,Networking skills
+3218,SD-WAN
+3219,cloud backup solutions
+3220,Cloud computing platforms
+3221,"(Azure, AWS"
+3222,customer and supplier management
+3223,Project Brief documentation
+3224,A keenness
+3225,coding and design standards
+3226,Agile team and development group meetings
+3227,the Agile environment
+3228,Salesforce Development
+3229,Salesforce SalesCloud implementations
+3230,Agile development methodologies
+3231,(UI Programming Language
+3232,API Programming Language
+3233,Git and Visual Studio IDE
+3234,DevOps tools
+3235,a DevOps/SRE work pattern
+3236, Automated infrastructure creation
+3237,DevOps / SRE teams
+3238,the on-going reliability
+3239,security posture
+3240,our DevOps culture
+3241,the Technical Roadmap
+3242,DevOps pipelines
+3243,Microsoft Azure Networking
+3244,Virtual Machines/Compute
+3245,Azure Active Directory
+3246,Azure Policy
+3247, Magento experience
+3248, Experience writing APIs
+3249,API gateway
+3250,DevOps toolchain access
+3251,DevOps toolchain support/maintenance/upgrades
+3252,Vitality Platform and infrastructure services
+3253,the AWS Digital environment
+3254,Vitality AWS digital infrastructure
+3255,AWS best practice
+3256,Certificate management/API Gateway Management/Reverse Proxy Management
+3257,complex and dynamic environments
+3258,equivalent security qualifications
+3259,Cyber Essentials
+3260,maintainable and expandable code systems
+3261,procurement and development efforts
+3262,other AI/ML packages
+3263,Docker/Cloud systems
+3264,other AI/ML packages
+3265,Docker/Cloud systems
+3266,SQL Server.. Confident
+3267,Java application phases
+3268,Design and development phases
+3269,Experience Bachelor's degree
+3270,architecture and integration designs
+3271,CANbus and k-line
+3272, Ensuring solution integrity
+3273,the Enterprise and Solutions Architects
+3274,current and emerging technologies
+3275,infrastructure and networking design
+3276,Java Spring boot
+3277,SQL Server
+3278,cloud computing
+3279,cloud architectures
+3280,DevOps toolchains
+3281,current and future projects Website Accessibility
+3282,friendly and caring relationships
+3283,Computer Science/Applied Mathematics
+3284,SQL Server
+3285,Azure cloud environments
+3286,cloud-based backend platform components
+3287,API Gateway
+3288,Developer Portal
+3289,Job Scheduler
+3290,Workflow Orchestration
+3291,coding and quality standards
+3292,functional and technical specifications
+3293,API gateway
+3294, Adaptable team player
+3295,an Agile development environment
+3296,Kafka and/or Workflow Engine..  Experience
+3297,Vault Solution Workshops
+3298,product and configuration gaps
+3299,Vault workflows
+3300,Vault Configuration
+3301,Vault and associated roadmap
+3302,RFI and RFP responses
+3303,Target State Solution Architecture Workshops
+3304,prospective and current customers
+3305,technical and non-technical stakeholders
+3306,public cloud platforms
+3307,Apache Kafka
+3308,Linux experience
+3309,AWS/Azure/GCP
+3310,core infrastructure technologies
+3311, Product homologation
+3312,SQL and NoSQL databases
+3313,Intelligent Document Processing
+3314,an Agile team triangle
+3315,Dev Ops teams
+3316,Web Fundamentals
+3317,internal and external libraries
+3318,performance metrics
+3319,Quality Assurance team
+3320,container technologies
+3321,Operations Manuals
+3322,Object-Oriented methodologies
+3323,DB accessor
+3324,Apache Spark
+3325,SQL databases
+3326,NoSQL databases
+3327,AWS DynamoDb
+3328,AWS cloud services
+3329,Data visualization skills
+3330,AWS Sagemaker
+3331,NET Developer Specification
+3332,Agile SCRUM methodologies
+3333,Microsoft Azure
+3334,cloud optimization
+3335, AWS experience
+3336,Directory Services
+3337,basic AWS networking skills
+3338,Azure services
+3339,Cloud Gateways
+3340,Vrealize Operations Manager -VROPS
+3341,– Windows Servers
+3342,Citrix infrastructure
+3343, Microsoft Azure Active Directory user
+3344,clear and timely communication
+3345, Industry certifications
+3346, Microsoft – MCSE Server Infrastructure certification
+3347, VMWare – Data Center Virtualization
+3348, Azure and AWS certification
+3349,oral and written communication skills
+3350,interpersonal and negotiation skills
+3351,Scope and design power platform driven solutions
+3352,Food Data Science and Analytics team
+3353,Essential: Data visualisation/user experience design skills/ testing solutions
+3354,strong SQL knowledge
+3355,Microsoft Power Platform Developer PL-400 accreditation
+3356,Microsoft Azure
+3357,electrical and/or mechanical engineering
+3358,A technical electrical/ mechanical engineering qualification
+3359,Web Java software development
+3360,SQL server
+3361,Azure Kubernetes
+3362,PowerShell / Azure CLI
+3363,Data-Centre or commercial installation projects
+3364,Linux administration
+3365,Test automation
+3366,A strong Github
+3367, Product Load Bearing Testing
+3368,Computer Systems Validation
+3369,Computer Systems Validation
+3370,Pharma/Medical/Biotech
+3371,automation / IT function
+3372,networking and information transfer systems
+3373, Validation experience
+3374,Computer Systems Validation
+3375,current and future computerized systems validation
+3376,routine and project validation work
+3377,onsite and cloud-based systems
+3378,the Oracle Cloud
+3379,the Oracle cloud
+3380,cloud vendors
+3381,Oracle Integration Cloud
+3382,Oracle functional concepts
+3383,AWS serverless offerings
+3384,the cloud computing ecosystem
+3385,simple and intuitive material
+3386,JavaScript Dom manipulation Techniques
+3387,testing frameworks
+3388,robust and scalable solutions
+3389,API development
+3390,Mechanical Engineering Degree qualification
+3391,EDI systems
+3392,Git / Dev ops
+3393, Flexible and yet organised and structured approach
+3394, Azure Development
+3395, Design Software or CAD experience
+3396,Quality Assurance procedures
+3397,Heating and Ventilation Building Services
+3398,17th Edition Institute
+3399,Uninterruptible Power Supply
+3400,greater and more intuitive end-user options
+3401,Define and document change requirements
+3402,engineering and business process modelling activities
+3403,Agile and TDD processes Experience
+3404,Express Typescript Microservices
+3405,Agile principles
+3406," Qualifications - C&G 2330 or equivalent, 16th edition IEE regulations"
+3407,Fully Embedded Software Lifecycle Experience
+3408,Test)Desirable Experience
+3409,Cisco Jabber
+3410,Microsoft Certified Professional (MCP
+3411," Windows 7-10, Microsoft Active Directory"
+3412,Enterprise anti-virus solutions
+3413,Enterprise encryption solutions
+3414,Windows PC/laptop management
+3415, Architecture and API design
+3416,Azure DevOps
+3417,CAD experience
+3418,Helix Core product
+3419,triage and support teams
+3420,"A collaborative, positive approach"
+3421,ASP.Net OR
+3422,Azure DevOps
+3423,Agile software development
+3424,Azure cloud hosting
+3425,Clear and transparent communication
+3426,Python and SQL databases
+3427,Strong SQL skills
+3428,A visualization expert
+3429,business and functional value capture
+3430,Microsoft Azure
+3431,MySQL experience
+3432,Adobe Photoshop or Illustrator experience
+3433,authentication and authorization systems
+3434,SSO solutions
+3435,Privileged Access Management Systems
+3436,the Identity Lifecycle Management and Identity Governance
+3437,Identity workflow
+3438,centralized IAM directories
+3439,Identity Lifecycle Management Solutions
+3440,Identity Governance Products
+3441,Microsoft Active Directory
+3442,Privileged Access Management Systems
+3443,Authentication and Security requirements
+3444,programming and technical expertise
+3445,Agile methodology
+3446,National Grid architecture standards
+3447,API development
+3448,Azure PaaS and SaaS solution development technologies
+3449,Azure FunctionsAzure App Service Fabric
+3450,Microsoft Azure API
+3451,REST and data-based APIs
+3452,facadesAzure Identity Management and Security technologiesAzure Service Bus and Azure Event Hub/Azure Event GridAzure AI
+3453,Machine Learning platformsMicrosoft Azure Operational
+3454,Express js
+3455,Advanced REST ClientAPI development
+3456,Managed File Transfers
+3457,the Cyber Security field
+3458,easy and timely access
+3459,particularly SQL Server
+3460,Microsoft BI solutions
+3461," Database administration, maintenance and monitoring skills"
+3462,Data Warehouse methodologies
+3463, Comprehensive documentation skills
+3464,Azure Data Factory
+3465,SQL Database
+3466,AWS Redshift
+3467,Apache Spark
+3468,Microsoft Data Export Service
+3469,Citrix Hypervisor
+3470,the Cognos system
+3471,the Cognos application
+3472,Defines and documents hardware/software interfaces
+3473,SQL Server and relational databases
+3474,Monitoring issue resolution-software engineer
+3475,our Monitoring and Tooling methodologies
+3476,Product portfolios
+3477,performance vulnerabilities
+3478,the Performance Footprints
+3479,New Relic
+3480,All Apps Technology and Data Hub performance optimization experience
+3481,Monitoring & Alerting tools
+3482,Azure Monitor
+3483,agile and scrum project management
+3484,our Monitoring & Observability platform
+3485,· Monitoring & Observability platform
+3486,WebSphere MQ
+3487,NoSQL databases
+3488,A bachelor’s degree
+3489,detailed process workflow
+3490,a Master’s degree
+3491,UI/UX frameworks
+3492,JavaScript front-end and SPA frameworks
+3493,UI development
+3494,HTML and CSS frameworks
+3495,the DevOps way
+3496,Core Java
+3497,SQL composition skills
+3498,Core Java
+3499,SQL compositions
+3500,DevOps solutions
+3501,a hybrid cloud environment
+3502,their cloud configurations
+3503,security alerting
+3504,security alerts
+3505,new cloud-based initiatives
+3506,the cloud networking offerings
+3507,technical security assessments
+3508,cloud orchestration tools
+3509,Lead SDET
+3510,strategic and tactical automation direction
+3511,Platform Automation Roadmaps
+3512,Master’s degree
+3513,analytical and problem-solving skills
+3514,new and existing complex database backed applications
+3515,Design and document complex technical database schema
+3516,Java applications
+3517,SQL scripts
+3518,configuration management environments
+3519,Advanced verbal and written communication skills
+3520,Master’s degree
+3521,Java GUI development experience
+3522,Oracle RDBMS
+3523,Microsoft SQL Server
+3524, Advanced organizational and analytical skills
+3525,Web Services/APIs/Microservices architecture
+3526,a Lead Programmer
+3527,SAS programs
+3528,Analysis Results Metadata
+3529,QA and client audits
+3530,Active Directory/DHCP/DNS/Group Policy
+3531,the Solution Architects
+3532,Architect efficient and reusable front-end systems
+3533,RESTful API services
+3534,Experience deploying
+3535,.. Suite BI Microsoft
+3536,IBM App
+3537,.. Technologies Azure
+3538,Azure SQL Database
+3539,que CRM et ERP
+3540,NetSuite OneWorld
+3541,business and systems analysts
+3542,TRM&IS regulations
+3543,standard Agile methodology
+3544,Lead CSR
+3545,A valid driver’s license
+3546,Food Safety Management certification
+3547,Quality Assurance
+3548,QA/Test Analysts
+3549,valid and invalid records
+3550,the Test/QA procedures
+3551,sustainable and quantifiable business process improvements
+3552,Quality Assurance
+3553,QA/Testing methodology
+3554,voltage and speed regulation
+3555,OPC Server / Client
+3556,Product Designers
+3557,Google Analytics
+3558,Adobe Creative Suite
+3559,Adobe Illustrator
+3560,UI/UX design
+3561,Predictive modeling and machine learning experience
+3562,breed Cloud technologies
+3563,a JavaScript framework
+3564,an Agile environment
+3565,automated testing frameworks
+3566,Technical/quantitative university degree
+3567,Electronics and Communication Engineering
+3568,5G NR
+3569, Good and demonstrable knowledge
+3570, Professional Java development experience
+3571,AWS database
+3572,other AWS technologies
+3573,Android SDK
+3574,Android UX/UI guidelines
+3575,performance optimisation
+3576,Desktop/EPOS environment
+3577,procedural and contractual agreements
+3578,Customer Checksheets
+3579,A Methodical and accurate approach
+3580,A Bachelor’s degree
+3581,Data Analytics
+3582,Java/J2EE
+3583,Microsoft stack
+3584,Oracle Cloud
+3585,AI/ML
+3586,AWS cloud
+3587,Core Java
+3588,No-SQL datastore
+3589,new and innovative application experiences
+3590,Programming proficiency
+3591,iOS UI design principles
+3592,API design
+3593,reusable Java libraries
+3594,other Business Stakeholders
+3595,Oracle Database PL/SQL
+3596,Oracle RAC Environments
+3597,Backup utilities
+3598,Cloud-native deployments
+3599,Enterprise Integration Patterns
+3600,Java scripting
+3601,A National Grid Competent Person qualification
+3602,Microsoft SQL Server
+3603,Microsoft Entity Framework
+3604,other JavaScript frameworks
+3605,testing frameworks
+3606,solution architects
+3607,technical and functional guidance
+3608,QA and client end-user teams
+3609, Ensure and Review application compliance
+3610,/DevOps teams
+3611,B.Tech/M.Tech/MSc
+3612,CS)/MCA
+3613,Java certifications
+3614,Java programming
+3615,Core Java
+3616,Linux Operating systems-
+3617,AWS Route
+3618,Senior Software Developer Project Role Description
+3619,the BI developers
+3620,ANSI SQL Oracle
+3621,PLSQL and Snowflake database
+3622,SQL Queries
+3623,complex SQL queries
+3624,PL/SQL code
+3625,performance tuning
+3626,SQL queries
+3627,logical and physical data models
+3628,cloud data warehouses
+3629,AWS Redshift
+3630,Agile · Hands-on experience
+3631,· Visualization Tool
+3632,embedded C SW design
+3633,Operating System - Linux/ QNX/ SYSBIOS/ Vxworks/ Integrity/ ROS
+3634,leading and mentoring teams
+3635,product and platform performance optimization
+3636,project management methodologies
+3637,Android APIs
+3638,Java Native Interface
+3639,verbal and written English communication
+3640,Marketing verticals
+3641,Experience empathy
+3642,its UI implications
+3643,Bachelor's/Master’s degree Information technology
+3644,GIT repositories o Experience
+3645,an Agile environment
+3646,portal plus premium service platforms
+3647,the User Experience (UX) team
+3648,PHP Developer requirements
+3649,User authentication
+3650,MySQL ·      Experience
+3651,QA/testing domain
+3652,PLM Domain experience
+3653,Automation testing tools
+3654,Windows/Linux OS
+3655,Core Java
+3656,performance bottlenecks
+3657,performance tuning
+3658,backend Java/Groovy/Go
+3659,Java programming
+3660,Unix/Linux environments
+3661,Workflow automation
+3662,Data Warehouse(Teradata
+3663, DB system design
+3664, Strong DB architecture knowledge
+3665, Cognos / Tableau
+3666,Azure tools
+3667,Building API data
+3668,SQL datasets
+3669,Azure Databricks
+3670,Power BI experts
+3671,SQL databases
+3672,Microsoft Azure Tools & ETL processes
+3673,API development
+3674,Java-J2EE Development Extensive technical experience
+3675,Core Java
+3676,Agile Development
+3677, B.Tech / B.E.
+3678, Backend: Core Java
+3679,Core Java
+3680,API integration
+3681,Magento platform
+3682,POS terminal development
+3683,Agile Scrum methodology
+3684,"Self-motivated, critical thinker"
+3685,Java-based server-side applications
+3686,Core Java
+3687,Java EE platforms
+3688,Object Oriented analysis
+3689,JPA and Hibernate framework
+3690,B.Tech / MCA
+3691,CPQ Salesforce Developement
+3692,Cloudsense and Salesforce CPQHands
+3693,CloudSense Sales Console
+3694,Cloudsense Solution Console
+3695,Salesforce Administrator
+3696,Java ScriptingForce.com
+3697,Linux and Windows operating systems
+3698,Core Java
+3699,", SQL optimisation(s"
+3700,SQL Query Optimization(s
+3701,Web Service APIs
+3702,DevOps principles
+3703,JavaScript Development
+3704, Strong Technical Background REST API
+3705,API Management / API Gateways products
+3706,Data Logging
+3707,Inbound Outbound requests
+3708,the API solutions prototypes
+3709,API Gateways fundamentals
+3710,API Security
+3711,Open API standards
+3712,API testing tools
+3713,DevOps and Code versioning tools
+3714,API promotions
+3715,Customer Onboarding
+3716,device UI architecture
+3717,Agile methodologies
+3718,IoT Edge related architecture
+3719,Java Core
+3720,Google Pubsub
+3721,Amazon Kinesis
+3722,Amazon SQS
+3723,   ·      Continuous Integration tools
+3724,      architectural and code review
+3725,onsite and remote engineering teams
+3726,API and data requirements
+3727,A self-starter and fast learner
+3728,image processing algorithms
+3729,Windows & Linux platform
+3730,automated testing platforms
+3731,Java and Spring boot
+3732,Java & Spring boot
+3733,IDE tools
+3734,performance optimization
+3735,Code Quality Metrics
+3736,Technical documentation
+3737,Guide/Mentor junior developers
+3738,Agile Teams
+3739,Application Lifecycle Management tools
+3740,"Azure, AWS"
+3741,GCP services
+3742,API ecosystem
+3743,API development
+3744,API customers
+3745,AWS cloud services
+3746,API Management solutions
+3747,AWS API Gateway / Mulesoft API
+3748,Agile frameworks
+3749,cloud technologies(preferably Pivotal Cloud Foundry
+3750,No-SQL(MongoDB
+3751,business and technical stakeholders
+3752,modernized and sustainable technology roadmaps
+3753,XP/Agile/SCRUM development methodologies
+3754,written and interpersonal skills
+3755,DevOps principles
+3756,Object Oriented Analysis
+3757,Core Java
+3758,Java Enterprise Edition
+3759,JBoss and Cloud technologies
+3760,Developer or Application Developer ·       Hands-on design
+3761,C#.NET ·       Proficiency
+3762,SQL Server
+3763,Object-Oriented Programming
+3764,Web API
+3765,Entity Framework Core
+3766,Common Language Runtime
+3767,automated testing platforms
+3768,technical and non-technical audiences
+3769,Test Specifications
+3770,Embedded C/C++
+3771,SysC.  Embedded System
+3772,embedded C/C++
+3773,HiL testing environments
+3774,Automation experience
+3775,Non-Automotive space eg
+3776,HiL testing environments
+3777,Automation experience
+3778,ECU Control Software
+3779,Predictive modeling and machine learning experience
+3780,(Java / Scala
+3781,public/private cloud environments
+3782,offensive security tactics
+3783,Scrum/Agile development methodologies
+3784,#IT #ENG
+3785,(Java / Scala
+3786,public/private cloud environments
+3787,offensive security tactics
+3788,(Java / Scala
+3789,Scrum/Agile development methodologies
+3790,#IT #ENG
+3791,Scrum/Agile development methodologies
+3792,#IT #ENG
+3793,Scrum/Agile development methodologies
+3794,#IT #ENG
+3795,frontend and backend systems
+3796,technical and crypto experience
+3797,Azure.. Experience managing
+3798,GIT Flow
+3799,: NoSQL technologies
+3800,"iOS, Android, Web, and API services"
+3801,Experience building API products
+3802,Experience building API products
+3803,Experience building API products
+3804,infrastructure readiness
+3805,AI/ML/DL
+3806,infrastructure readiness
+3807,AI/ML/DL
+3808,infrastructure readiness
+3809,AI/ML/DL
+3810,infrastructure readiness
+3811,AI/ML/DL
+3812,cloud computing
+3813,Kotlin/Java
+3814,our Agile and Scrum practices
+3815,"Agile, Analytics"
+3816,GIT Flow
+3817,"iOS, Android, Web, and API services"
+3818,Lead and mentor other technical team members
+3819,our Agile and Scrum practices
+3820,"iOS, Android, Web"
+3821,"Agile, Analytics"
+3822,"iOS, Android, Web, and API services"
+3823,"iOS, Android, Web"
+3824,Docker and Kubernetes experience
+3825,a DevOps culture
+3826,"iOS, Android, Web, and API services"
+3827,GIT Flow
+3828,: NoSQL technologies
+3829,"iOS, Android, Web, and API services"
+3830,: NoSQL technologies
+3831,Azure Service Bus
+3832,"iOS, Android, Web, and API services"
+3833,Lead and mentor other technical team members
+3834,our Agile and Scrum practices
+3835,"iOS, Android, Web"
+3836,"Agile, Analytics"
+3837,"iOS, Android, Web, and API services"
+3838,Lead and mentor other technical team members
+3839,our Agile and Scrum practices
+3840,"iOS, Android, Web"
+3841,"Agile, Analytics"
+3842,"iOS, Android, Web, and API services"
+3843,GIT Flow
+3844,: NoSQL technologies
+3845,"iOS, Android, Web, and API services"
+3846,GIT Flow
+3847,: NoSQL technologies
+3848,"iOS, Android, Web, and API services"
+3849,Scrum/Agile development methodologies
+3850,"iOS, Android, Web"
+3851,Docker and Kubernetes experience
+3852,a DevOps culture
+3853,"iOS, Android, Web, and API services"
+3854,Kotlin/Java
+3855,"iOS, Android, Web"
+3856,Docker and Kubernetes experience
+3857,a DevOps culture
+3858,"iOS, Android, Web, and API services"
+3859,Experience building API products
+3860,Scrum/Agile development methodologies
+3861,JavaScript/Scala/Spark/Kafka
+3862,JavaScript client
+3863,(Java / Scala
+3864,Lambda Architectures
+3865,Apache Spark
+3866,Scrum/Agile development methodologies
+3867,SQL Server
+3868,SQL Server
+3869,JavaScript client
+3870,(Java / Scala
+3871,Lambda Architectures
+3872,Kotlin/Java
+3873,"iOS, Android, Web"
+3874,Docker and Kubernetes experience
+3875,a DevOps culture
+3876,"iOS, Android, Web, and API services"
+3877,: NoSQL technologies
+3878,Azure Service Bus
+3879,"iOS, Android, Web, and API services"
+3880,JavaScript/Scala/Spark/Kafka
+3881,JavaScript client
+3882,(Java / Scala
+3883,Lambda Architectures
+3884,JavaScript/Scala/Spark/Kafka
+3885,JavaScript client
+3886,(Java / Scala
+3887,Lambda Architectures
+3888,SQL Server
+3889,JavaScript client
+3890,(Java / Scala
+3891,Lambda Architectures
+3892,JavaScript client
+3893,(Java / Scala
+3894,Lambda Architectures
+3895,: NoSQL technologies
+3896,Azure Service Bus
+3897,"iOS, Android, Web, and API services"
+3898,JavaScript/Scala/Spark/Kafka
+3899,JavaScript client
+3900,(Java / Scala
+3901,Lambda Architectures
+3902,SQL Server
+3903,SQL Server
+3904,JavaScript/Scala/Spark/Kafka
+3905,JavaScript client
+3906,(Java / Scala
+3907,Lambda Architectures
+3908,scalable and reliable microservices
+3909,Agile tools
+3910,2- DB2/SQL
+3911,6- Unix background
+3912,7- BIRT Report design
+3913,Agile development methodologies
+3914,REST API design and migration experience
+3915,Dot Net Core development
+3916,PostgreSQL/MS SQL
+3917,Linux system admin
+3918,Cloud/Hosting solutions
+3919,Technical expertise
+3920,relational and/or NoSQL databases
+3921,(SQL Server/ MongoDB / Cassandra)Knowledge
+3922,technology and domain standpoint
+3923,IT SDLC lifecycle phases
+3924,both SQL and NoSQL databases
+3925,Redis.. Own product releases
+3926,design and implementation phases
+3927,Android and iOS platforms
+3928,security/penetration testing
+3929,design and implementation phases
+3930,Android and iOS platforms
+3931,security/penetration testing
+3932,verbal and written communication skills
+3933,deductive and inductive problem solving
+3934,Fast prototyping
+3935,Bachelors - Information Systems
+3936,our Agile system
+3937,competitive and innovative products
+3938,design and implementation phases
+3939,Android and iOS platforms
+3940,security/penetration testing
+3941,Qualcomm Application DSP
+3942,Audio Hardware interfaces
+3943,LXC container Architectures
+3944,Remote and OnSite Support
+3945,Code Customization
+3946,C/C++ /Java programming
+3947,Android Multimedia Framework
+3948,Linux ALSA Architecture
+3949,audio processing pipeline
+3950,Bachelors - Information Systems
+3951,Embedded Device Drivers
+3952,Embedded Linux
+3953,Linux kernel knowledge
+3954,hands-on experience debugging complex embedded software
+3955,Linux and Android multimedia software
+3956,Android HAL
+3957,Linux user mode and kernel mode
+3958,Linux kernel knowledge
+3959,hands-on experience debugging complex embedded software
+3960,Android multimedia software
+3961,Android HAL
+3962,Linux user mode and kernel mode
+3963,Bachelors - Information Systems
+3964,IMS Stack
+3965,Linux Kernel
+3966, Embedded SW systems/RTOS
+3967, Software debug skills and mobile device integration experience
+3968, Written and verbal communication skills
+3969,Bachelors - Information Systems
+3970,verbal and written communication skills
+3971,deductive and inductive problem solving
+3972,Automotive Multimedia SW developers
+3973,Android Multimedia Framework
+3974,Linux ALSA Architecture
+3975,audio processing pipeline
+3976,virtualized Operating System
+3977,Bachelors - Information Systems
+3978,verbal and written communication skills
+3979,deductive and inductive problem solving
+3980,Automotive Multimedia SW developers
+3981,Android Multimedia Framework
+3982,Linux ALSA Architecture
+3983,audio processing pipeline
+3984,virtualized Operating System
+3985,Bachelors - Information Systems
+3986,verbal and written communication skills
+3987,deductive and inductive problem solving
+3988,Fast prototyping
+3989,Bachelors - Information Systems
+3990,design and architectural plans
+3991,SQL queries
+3992,Backend and web engineers
+3993,classification and entity recognition
+3994,processing analytics data
+3995,(MySQL/MongoDB) Employment Type Full-time
+3996,User Interfaces
+3997,SQL Server
+3998,HTML5/CSS3
+3999,Agile methodologies
+4000,"
+        Azure data"
+4001,Data Mart
+4002,Cloud Platforms - Ms Azure
+4003,Data Bricks
+4004,Data Pipelines
+4005,Data manipulation/Data Engineering/ Data Profiling
+4006,SQL/PostgreSQL/SQL Server
+4007,Apache Hadoop/HDFS
+4008,Apache Spark
+4009,Apache Sqoop
+4010,Big Data Analytics
+4011,Data Marts
+4012,On-Premise
+4013,Cluster computing
+4014,Apache Spark
+4015,Azure Cloud
+4016,Data Bricks
+4017,Data Pipelines
+4018,Skills:- Cloud Computing
+4019,performance tuning
+4020,UI/UX standards
+4021,cloud message APIs
+4022,Apache Spark
+4023,HTTP APIs
+4024,Apache Kafka
+4025,AWS Kinesis
+4026,AWS tools
+4027,Apache Kafka
+4028,AWS Lambda
+4029,BS/MS degree
+4030,Android SDK
+4031,Experience testing microservices-based multi-tiered web applications
+4032,AWS/Azure/GCP
+4033,SQL databases
+4034,Business Process Management / workflows
+4035,AWS services
+4036,basic and advanced HTML5 / CSS3 features
+4037,UI components
+4038,C/C++/Python programming
+4039,Linux operating systems
+4040,Software Architectures
+4041,configuration management systems
+4042,MS SQL server
+4043,o Azure services
+4044,Azure storage
+4045,UI skills - HTML
+4046, Snowflake and SQL Server
+4047,Snowflake -Cloud Data warehouse
+4048,""" hands-on "" Snowflake Cloud Development"
+4049,BI projects
+4050,Snowflake cloud data warehouse
+4051,SQL Server
+4052,Snowflake cloud data warehouse
+4053,NoSQL data stores
+4054,Azure data storage
+4055,performance tuning
+4056,Azure Platform
+4057, Certified Snowflake cloud data warehouse Architect
+4058,Agile development methodologies
+4059,existing BI systems
+4060,GIT repositories
+4061,GIT commands
+4062,an Analytics Manager position
+4063,performance optimization
+4064,Mentor and train engineers
+4065,AWS platform
+4066,Experience mentoring and training engineers
+4067,container technologies
+4068,configuration management tools
+4069,Services Oriented Architectures
+4070, Custom themes
+4071,Application designing / development / testing / support / enhancements
+4072,functional and technical representatives
+4073,automated testing frameworks
+4074,concept and business requirements validations
+4075,Technical and Release Documentation
+4076,Beginner to Medium level
+4077,Database Programming skills
+4078,complete Software Development Lifecycle
+4079,"Self-motivated, good interpersonal skills"
+4080,SQL Server
+4081,C#/VB.NET
+4082,Object-oriented design experience
+4083,Visual SVN
+4084,a Networking / Cyber / Computer Science course
+4085,Agile methods
+4086,•	Object-oriented PHP development
+4087,Cloud environments
+4088,Adobe’s Experience Cloud ecosystem
+4089,Google Big Query
+4090,Adobe Web SDK Javascript library
+4091,Customer Journey Analytics dashboards
+4092,Adobe Experience Platform
+4093,Marketing Automation experience
+4094,AWS and/or Azure serverless products
+4095,AWS Aurora/Dynamo DB/Redshift or Azure alternatives
+4096,"Agile, SCRUM"
+4097,Microsoft Azure Certifications
+4098,Azure B2C
+4099,similar Agile life cycle management tools
+4100,MS SQL Server
+4101,Microsoft Office suite
+4102,SAP BW/BI solutions
+4103,SAP BW modelling
+4104,BW Query development experience
+4105,SAP ECC6 / S/4HANA DataSource extraction
+4106,ABAP development
+4107,BI presentation tool development experience
+4108,SAP Lumira
+4109,SAP HANA development techniques
+4110,SAP Analytics Cloud
+4111,"(Azure, AWS"
+4112,Cloud Native best practises
+4113,Java applications
+4114,DevOps practices
+4115,DevOps practices
+4116,DevOps practices
+4117,API aggregation
+4118,similar and NoSQL technologies
+4119, Strong Object Oriented programming skills
+4120,Git/GitHub/GitLab
+4121,a NoSQL database engines
+4122,Advanced proficiency
+4123,Advanced analytical and problem-solving skills
+4124,AWS technologies
+4125,API Gateway
+4126,Data Pipelines
+4127,Test Automation
+4128,Test Automation Framework(s
+4129,Test Scenarios
+4130,performance metrics
+4131,Test Harnesses
+4132,Performance Testing Frameworks
+4133,CI and CD practices
+4134,customer Solution migration documentation
+4135,upgrade and enhanced services
+4136,"Pre-Sales, Solutions Architecture teams"
+4137,Key Stakeholders
+4138,testing/troubleshooting
+4139,Data Networking technologies
+4140,Maraki Networking projects/solutions
+4141,verbal and written communication skills
+4142,Cisco CCNA
+4143,Administering Cisco Solutions
+4144,Microsoft Server/Workstation products
+4145,Security clearance
+4146,Data Warehouses
+4147,Database Internals
+4148,Performance Tuning
+4149,Infrastructure Reliability
+4150,Data Pipelines
+4151,Archival.. Data Integrations
+4152,Continuous Data Transformation Processes
+4153,Elastic Search
+4154,Geographic Information Systems
+4155,Cloud deployments infrastructure
+4156,Continuous Integration/Continuous Delivery
+4157,Ansible.. Test Driven Development Practices
+4158,Agile/DevOps/Site Reliability Engineering experience
+4159, C programming languages skills
+4160,OS internals
+4161,designing and pre-planning efforts
+4162,PL/SQL syntax
+4163,the Agile development process
+4164,Agile scrum methodology
+4165,Data Platform / Warehouse / Lake engineering
+4166,.. Excellent SQL skills
+4167,Data Governance processes
+4168,Elastic Search
+4169,API Management
+4170,JavaScript/jQuery
+4171,asynchronous and multi-threading methods
+4172,Azure DevOps CI/CD
+4173,Microsoft SQL Server
+4174,clear and consistent SQL documentation methods
+4175,WCF and/or Web API web services
+4176,similar security scan solutions
+4177,Strong Agile and Waterfall experience
+4178,Strategic thinker
+4179,Computer Science/Electrical or Mechanical Engineering
+4180, Solidity knowledge
+4181,Microsoft Azure
+4182,multiple and evolving programs
+4183,Experience/Tech Stack Requirements
+4184,Express ● Middleware & DB layer
+4185,Express Js
+4186,Amazon RDS ● Automation and Collaboration Tools
+4187,MS Teams ● Web/Application Servers
+4188,Apache Tomcat
+4189,Java Web Server ● 4 yrs+
+4190,Agile Methodology
+4191,UI/UX Designers
+4192,SQL Development
+4193,Azure services
+4194,Azure Data Factory
+4195,Synapse/DW
+4196,Azure SQL DB
+4197,Azure Event Hub
+4198,Azure Stream Analytics
+4199,Azure Functions
+4200,Azure Analysis Service
+4201,Azure Data Engineers
+4202,Azure components
+4203,Azure IT industry
+4204,Azure Platform
+4205,SQL Development
+4206,Azure services
+4207,Azure Data Factory
+4208,Synapse/DW
+4209,Azure SQL DB
+4210,Azure Event Hub
+4211,Azure Stream Analytics
+4212,Azure Functions
+4213,Azure Analysis Service
+4214,Lean / Agile development methodologies
+4215,other SQL compliant languages
+4216,greenfield cloud services
+4217,the API-First approach
+4218,A Scrum mindset
+4219,Business Analysts
+4220,DevOps activities
+4221,AWS infrastructure
+4222, AWS Certified Associate
+4223,Java programming language
+4224, Unit testing methodologies
+4225,automated testing platforms
+4226, Agile development processes
+4227,the Android SDK
+4228,Kotlin programming language
+4229,Data Analysts
+4230,Data Architects
+4231,Business Analysts
+4232,Oracle ODI
+4233,Data Analysts
+4234,Business Analysts
+4235,Microsoft .Net development platforms
+4236,robust and scalable software products
+4237,infrastructure provisioning
+4238,AWS services
+4239,API gateway
+4240,Agile delivery
+4241,Kanban and Scrum teams
+4242,Linux administration
+4243,AWS certification
+4244,container orchestration tools
+4245,Self-Learner
+4246,Embedded C
+4247,IAR Development Environment
+4248,clear and concise written documents
+4249,Master’s degree
+4250,Amazon AWS
+4251,Microsoft Azure
+4252,cloud computing
+4253,NoSQL solutions
+4254,Memcache/Redis
+4255,an AWS environment
+4256,DevOps best practices
+4257,reliability and fault investigations
+4258,remote and onsite technical support
+4259,networked and/or wireless systems
+4260,a Linux environment
+4261,Agile software development lifecycles
+4262,Quality Assurance capabilities
+4263,UI and interaction systems
+4264,AR/VR
+4265,a VR project
+4266,A Bachelor’s degree
+4267,A Master's degree
+4268,XML structure
+4269,XML parsers
+4270,the security posture
+4271,Google ecosystems
+4272,Azure AD
+4273,Test Scenarios
+4274,an Agile environment
+4275,Demonstrable Software Development experience
+4276,Agile processes
+4277,DevOps and Software Craftsmanship
+4278,Design client-side and server-side architecture
+4279,UI/UX design
+4280,SQL Server
+4281,Azure Integration Services
+4282,SQL dialects
+4283,A Master or PhD (doctorate) degree
+4284,security frameworks
+4285,AWS/GCP/Microsoft Azure
+4286,both IT and OT environments
+4287,Adaptable and flexible approach
+4288,cloud capabilities
+4289,"Excellent documentation, design and presentation skills"
+4290,compliance and regulatory requirements
+4291,strategic and tactical security guidance
+4292,the security and enterprise architectures
+4293,threat and vulnerability assessments
+4294,design and remediation activities
+4295,IT/OT and 3rd party vendors
+4296,IT related vendors
+4297,Key Competencies
+4298,infrastructure technology cyber threats
+4299,Cyber Essentials
+4300,Data Partitioning
+4301,Working SQL Server Jobs
+4302,SQL server security model
+4303,Data import/export processes
+4304,Core ecosystem
+4305,Microsoft web technologies
+4306,SQL Server
+4307, Tech stack
+4308,Web API
+4309,Core Java Software Engineer
+4310,task and manage project timelines
+4311,Product Engineering Test Technicians
+4312,SAS JMP
+4313,continuous process improvements
+4314,CS fundamentals
+4315,continuous process improvements
+4316,CS fundamentals
+4317,performance tuning
+4318,parallel and vectorized code
+4319,Design Principals
+4320,UI tests framework
+4321,GitHub Actions
+4322,Enterprise Customer Care (ECC) Professional Services (PS) business unit
+4323,deployment and technical assistance
+4324,the “Legacy Quorum
+4325,Azure DevOps Pipelines
+4326,Development or deployment experience
+4327,an Agile environment
+4328,protection and power management integrated ICs
+4329,analog and mixed-signal IC‘s manufacturing testing environment
+4330,Analog / Digital IC testing methodologies
+4331,C/C++/VBA
+4332,mentorship and team leadership
+4333,Microsoft Office™ products
+4334,analysis datasets
+4335,timely and quality development
+4336,Education BA/BS/MS
+4337,Good SAS experience
+4338,timely and quality deliverables
+4339,the Microsoft Azure ecosystem
+4340,Microsoft Azure infrastructure
+4341,Microsoft M365
+4342,Azure.. Act
+4343,accurate and up to date documentation
+4344,At least three certifications
+4345,Microsoft Azure
+4346,Microsoft Azure / Public Cloud
+4347,", AWS CSA"
+4348,MS-101
+4349,Other advanced certifications
+4350,Microsoft Windows-based infrastructure
+4351,Microsoft Azure based infrastructure
+4352,non-Azure based infrastructure
+4353,Azure workloads
+4354,Windows Virtual Desktop
+4355,centralized Microsoft management systems
+4356,Azure AD designs
+4357,Microsoft Endpoint Management
+4358,Microsoft Azure
+4359,Event Broker space
+4360,Eventing and Messaging Middleware/Integration
+4361,Event Streaming and messaging products
+4362,IBM MQ
+4363,SOA concepts
+4364,Enterprise Integration Patterns and Solution architecture experience
+4365,ESB/API tools
+4366,API integration
+4367,our UI programming model
+4368,Bitcoin/Ethereum/Blockchain
+4369,Design;Computer Security Design;Capability-based security
+4370,Bash;Computer
+4371,Operating Systems;Git
+4372,Linux;Google Cloud Platform/Azure/AWS
+4373,UI code
+4374,UI mock-ups
+4375,reusable UI components
+4376,UI development
+4377,Strong Object Oriented Programming Skills
+4378,the Agile development processes
+4379,MySQL/Oracle/SQL Server
+4380,Elastic Search
+4381,new and effective interactive design solutions
+4382,Responsive Web Design
+4383,Azure experience
+4384,(Adobe Experience Manager
+4385,Backend Development tools
+4386,Agile development framework
+4387,Backend-services
+4388,Web API
+4389,Computer Science fundamentals
+4390,Unit Testing or Integration Testing
+4391,"preferably NoSQL (Cosmos, Table storage"
+4392,A Java web developer
+4393,the Java programming language
+4394,a Java web developer
+4395,Java applications
+4396,Java application development
+4397,an Agile development process
+4398,Primefaces.. Design systems
+4399,Debugging and Troubleshooting technical issues
+4400,Core Java / J2EE backend development
+4401,the UI layer
+4402,", SQL Server"
+4403,User Interface design and development experience
+4404,a JavaScript front-end framework
+4405,Vue.. Experience writing unit test cases
+4406,testing methodologies
+4407,architectural and design reviews
+4408,security test automation
+4409,groundbreaking and multifaceted technologies
+4410,Architectural and design review
+4411,Python.. Security automation
+4412,Penetration testing
+4413,Citrix cloud services
+4414,security fixes
+4415,Penetration testing
+4416,security automation
+4417,security vulnerabilities
+4418,System Internals
+4419,Computer Science fundamentals
+4420,XML schemas
+4421,MS SQL Server
+4422,UI Development
+4423,Web APIs
+4424,GCP/Azure
+4425,an Agile team
+4426,"technical, DevOps and product management teams"
+4427,Azure Dev Ops
+4428,Web UI
+4429,SQL Server
+4430,JavaScript/TypeScript
+4431,Agile development
+4432,the ERP industry
+4433,SQL Server
+4434,ERP application experience
+4435,Vendor / Partner
+4436,upstream and downstream system interactions
+4437,Agile and CI-CD practices
+4438,personal and team capability growth
+4439,Java Enterprise Edition
+4440,Java/J2EE
+4441,Struts and/or Spring framework
+4442,Java Server Pages
+4443,Continuous Integration and Deployment Strategies
+4444,XML/JSON
+4445,Apache CXF
+4446,Enterprise Java Beans
+4447,Agile Methodology
+4448,accurate and timely documentation
+4449,SQL programming language
+4450,SQL programming language
+4451,Oracle Business Intelligence Enterprise edition
+4452,SQL and data analysis skills
+4453,an Agile environment
+4454,Big data frameworks
+4455,Apache Flink
+4456,Apache Spark
+4457,Data Modelling
+4458,complex SQL scripts
+4459,Data Visualisation tools
+4460,Design circuits
+4461,cloud computing techniques
+4462,security frameworks
+4463,user and services authorization
+4464,a Software Architect
+4465,exceptional Technical leadership
+4466,Cyber security experience
+4467,endpoint/Network protect/detection perspectives
+4468,Linux/*nix
+4469,the OS architecture
+4470,automated testing experience
+4471,Design configurable platform
+4472,Java/Scala
+4473,Apache Spark
+4474,REST API development
+4475,Apache Kafka
+4476,A bachelor's degree
+4477,the Microsoft .NET Stack
+4478,Web APIs
+4479,T-SQL/SQL Server
+4480,Windows Server/IIS
+4481,Database SQL Programming
+4482,DevOps concepts
+4483,written and verbal communication skills
+4484,AWS Services
+4485,API Gateway
+4486,Oracle/SQL Server/Dynamo DB
+4487,Azure cloud
+4488,similar cloud computing service
+4489,Relational and non-relational databases
+4490,the Microsoft stack
+4491,Azure DevOps
+4492,SQL Server
+4493,Azure Cloud
+4494,Cloud computing architectures
+4495,an Agile development team
+4496,SOAP and/or Restful Web Services (WCF
+4497,Web API
+4498,Azure DevOps
+4499,NuGet packages
+4500,Azure SQL
+4501,API Management
+4502,complex and scalable solutions
+4503,a Linux platform
+4504,the R&D team’s architects
+4505,an Automation toolset
+4506,UI technologies
+4507,SQL Server
+4508,MS SQL
+4509,Microsoft Windows Clustering
+4510,the JavaScript object model
+4511,JSON Web Token
+4512,A knack
+4513,technical and non-technical audiences
+4514,API Gateway
+4515,Redis/Elasticache
+4516,an Agile environment
+4517,Dynamics CRM experience
+4518,● DB Knowledge
+4519,NoSQL Engines
+4520,● Unit and Integration tests experience
+4521,Agile methodology
+4522,Core Java JDK
+4523,NoSQL databases
+4524,Knowledge Docker
+4525,DevOps knowledge
+4526,DevOps methodology
+4527,Data security and Data Privacy guidelines
+4528,Cross Cultural Experience Organization Scope
+4529,experience Salesforce development experience
+4530,popular Web UI frameworks
+4531,Visualforce pages
+4532,Salesforce SOAP API
+4533,BULK API Experience building integrations
+4534,Eclipse IDE
+4535,Certified Platform Developer II) Experience
+4536,Einstein Analytics
+4537,DevOps capabilities
+4538,Salesforce projects
+4539,Agile methodology Experience
+4540,(Automation Test Framework
+4541,ServiceNow Micro-Certification
+4542,Automated Test Framework Fundamentals
+4543,automated testing tools
+4544,ServiceNow Certified Implementation Specialist
+4545,ServiceNow Knowledge
+4546,ServiceNow platform architecture
+4547,HR scoped applications
+4548,especially HR Service Portal
+4549,Integration Hub
+4550,Test Automation framework
+4551,Automation scripts
+4552,an Agile (Scrum) development team
+4553,configuration and deployment issues
+4554,JavaScript based libraries
+4555,SQL Server
+4556,Azure Devops
+4557,AI/ML
+4558,Self-starter
+4559,AWS Work
+4560,cloud algorithms
+4561,consumer and clinician-facing applications
+4562,contemporary UI/UX design
+4563,testing frameworks
+4564,Next.js
+4565,GitHub Actions
+4566,ASP.Net core
+4567,"C#, OOPS Concept"
+4568,Web APIs
+4569,JavaScript frameworks
+4570,Objective C/Swift (preferably Enterprise apps
+4571,Agile development methodology
+4572,Agile Framework
+4573,Object Oriented Design
+4574,Agile or Scrum software development methodologies Ability
+4575,UI components
+4576,UI components
+4577,MicroStrategy Web
+4578,Visual Insights
+4579,functional and technical requirement specifications
+4580,critical User Acceptance scenarios
+4581,strong SQL skills
+4582,logical and physical data modeling concepts
+4583,other BI tools
+4584,Reports rationalization
+4585,Programming language Dart
+4586,Native Programming languages
+4587,Kotlin/Java
+4588,Networking libraries
+4589,Google APIs
+4590,the Agile Testing Quadrant
+4591,the Agile Test Quadrant
+4592,Web APIs
+4593,Laravel Framework/ CodeIgniter Minimum experience
+4594,HTML5/CSS3
+4595,– Lead Java Developer Experience
+4596,Java Design patterns
+4597,RESTful Web services
+4598,Java Microservices
+4599,Power Mock
+4600,Java technologies
+4601,Java Spring Boot
+4602,Calypso Technology
+4603,Cloud Technology / AWS
+4604,AWS platform
+4605,API Gateway EC2
+4606,Elastic Beanstalk
+4607,the AWS APIs
+4608,multiple AWS services
+4609,JavaScript frameworks
+4610,C++ / any OOPs language software development experience
+4611,OS and Data structure fundamentals
+4612,SQL knowledge
+4613, Experience programming database APIs
+4614,BI tools
+4615,Microsoft Power BI
+4616,Java memory
+4617,performance profiling tools
+4618,Code backend services
+4619,No-SQL/ MongoDB
+4620,SQL based data bases
+4621, MsSQL/MySQL/Postgres and NoSQL databases
+4622,  MongoDB / Redis Experience
+4623,an Agile/Scrum development process
+4624,AWS/Azure
+4625,service and containerization technologies
+4626,API integrations
+4627,a plus 6) Experience designing
+4628,Unix/Linux operating systems
+4629,slick and responsive Web UI tools
+4630,A Constant self-learner
+4631,Agile development practices
+4632,Healthcare Analytics domain
+4633,Microsoft Azure SQL Database
+4634,Azure Cosmos Database
+4635,Azure Data Factory Service
+4636,Tabular Model  • Experience
+4637,Process Diagrams
+4638,Software Configuration Management tools
+4639,SQL Server development
+4640,ETL/DB and QA team
+4641,Express.js
+4642,UI/UX design
+4643,DB architecture design and programming templates
+4644,Agile methodologies
+4645,API Creation
+4646,an Agile environment
+4647,GIT - Basic knowledge AWS services
+4648,unit testing frameworks
+4649,Web API
+4650,SQL Agent Jobs
+4651,Azure DevOps
+4652,Agile methodologies
+4653,Microsoft Azure
+4654,DevOps and production environments
+4655,Microsoft Azure
+4656,Amazon AWS
+4657,Linux systems
+4658,MS SQL Server
+4659,Query design
+4660,Data modelling
+4661,Data validation checks
+4662, • Experience C/C++ Embedded software development
+4663,RTOS/Non RTOS platform • Experience
+4664,AWS IaaS Administration
+4665,Python / Go / Ruby / Javascript
+4666,AWS technologies
+4667,Managing cloud based infrastructure
+4668,"Python, Go, Ruby, JavaScript, Shell/Bash Scripting, Java, HTML5 & CSS experience"
+4669,Web frameworks
+4670,Code repository best practices
+4671,Continuous Integration tools
+4672,UI development
+4673,Cloud Micro
+4674,AI/ML/Analytics
+4675,DevOps and Tech support teams
+4676,Bachelor/Master’s degree
+4677,UI development
+4678,Agile Methodology
+4679,Setup Printers
+4680,all Networking hardware
+4681,various Mobile OS.. Experience
+4682,performance testing frameworks
+4683,the Agile development life-cycle
+4684,Java/Swift experience
+4685,Android Keyboard API
+4686,Active Directory Administration
+4687,Azure Active Directory
+4688,SQL Server Administration
+4689,IPv6 – AD and Server Environments
+4690,"(Azure, AWS"
+4691,Structured and unstructured data backup
+4692,Linux experience
+4693,webapp performance engineering
+4694,", serverless cloud architectures"
+4695,NoSQL data storage systems
+4696,Java/J2EE
+4697,Application/Web Servers
+4698,Data modelling and database design experience
+4699,NoSQL DBs
+4700,GIT Hub
+4701,Object Oriented design
+4702,the Agile Development processes
+4703,Design layouts
+4704,key performance indicators
+4705,BI Viz solutions
+4706,other BI tools
+4707,Lead troubleshooting
+4708,latest and upcoming Microsoft/ open source technologies
+4709,Azure Kubernetes Service
+4710,JavaScript/TypeScript
+4711,Microsoft technology stacks
+4712,Enterprise Integration
+4713,Strong Technical expertise
+4714,Designing & Developing Applications
+4715,SQL Server
+4716,Agile methodology
+4717,Knowledge/Willingness
+4718,SQL Server
+4719,Web API
+4720,Java/Java EE application development
+4721,Agile Methodologies
+4722,JavaScript/HTML/CSS
+4723,Linux Software Integration
+4724,Config Management
+4725,SCM tools
+4726,SDK linux platform distributions
+4727,Linux integration and release strategy
+4728,Linux/Ubuntu/Fedora software integration
+4729,Hands-on familiarity
+4730,Linux distributions
+4731,OpenEmbedded-Core Project
+4732,Linux-based systems
+4733,Configuration Management
+4734,SCM tools
+4735,Linux Development Tools
+4736,Strong Java/Kotlin development experience
+4737,Java frameworks
+4738,native Android applicationsExtensive hands-on development experience
+4739,Java & KotlinExtensive experience
+4740,Android SDK
+4741,modern Developer ToolsExperience
+4742,VR/AR
+4743,mobile device variants
+4744,Obj-C/Swift
+4745,"Agile, Continuous Integration/Distribution"
+4746,Test Driven DevelopmentMust
+4747,Android OS
+4748,Android - Kotlin
+4749,Android recommended user interfaces
+4750,Agile development methodology
+4751,performance optimizations
+4752,Linux distributions
+4753,roadmap and strategy discussions
+4754,Linux based distributions
+4755,ASP.Net MVC
+4756,CSS3 and Material UI
+4757,Knowledge inGraph QL
+4758,Experience withDocker
+4759,AWS services
+4760,Elastic Container Service
+4761, Elastic Kubernetes Service
+4762, API security methodologies
+4763,User authentication
+4764,automated testing platforms
+4765, Object oriented programming
+4766,SAS programs
+4767,SAS programming language
+4768,SAS Enterprise Guide
+4769,Your Key Attributes  Strong data analysis
+4770,a DevOps Engineer
+4771,external and internal data leaks
+4772,development and production environments
+4773,DevOps Support
+4774, Cloud infrastructure monitoring
+4775,infrastructure environments
+4776,Azure Cloud
+4777,technical and non-technical stakeholders
+4778,· Experience designing
+4779,networking and network requirements
+4780,Networking concepts
+4781,SQL · Ability
+4782,Container Platform / Kubernetes technologies
+4783,infrastructure automation
+4784,DevOps tools
+4785,New Relic
+4786,Citrix Virtual App
+4787,Virtual Desktop
+4788,Java application design
+4789,Test Automation Development
+4790,Azure DevOps
+4791,HP Unified Functional Testing
+4792, Java/J2EE
+4793,MS SQL
+4794,the Java/J2EE stack
+4795,JavaScript/jQuery
+4796,modern Java and JavaScript frameworks
+4797, DevOps Experience
+4798,premise & Hybrid solutions
+4799,performance tuning
+4800,tolerant cloud systems
+4801,cloud-based data pipeline development
+4802,AWS Glue
+4803,AWS Lake FormationAzure
+4804,Data FactoryGCP
+4805,Cloud Composer
+4806,Big Data Stacks
+4807,premise & Hybrid solutions
+4808,performance tuning
+4809,tolerant cloud systems
+4810,cloud-based data pipeline development
+4811,AWS Glue
+4812,AWS Lake FormationAzure
+4813,Data FactoryGCP
+4814,Cloud Composer
+4815,Big Data Stacks
+4816,premise & Hybrid solutions
+4817,performance tuning
+4818,tolerant cloud systems
+4819,cloud-based data pipeline development
+4820,AWS Glue
+4821,AWS Lake FormationAzure
+4822,Data FactoryGCP
+4823,Cloud Composer
+4824,Big Data Stacks
+4825,premise & Hybrid solutions
+4826,performance tuning
+4827,tolerant cloud systems
+4828,cloud-based data pipeline development
+4829,AWS Glue
+4830,AWS Lake FormationAzure
+4831,Data FactoryGCP
+4832,Cloud Composer
+4833,Big Data Stacks
+4834,premise & Hybrid solutions
+4835,performance tuning
+4836,tolerant cloud systems
+4837,cloud-based data pipeline development
+4838,AWS Glue
+4839,AWS Lake FormationAzure
+4840,Data FactoryGCP
+4841,Cloud Composer
+4842,Big Data Stacks
+4843,a CRM company
+4844,Salesforce Certifications
+4845,premise & Hybrid solutions
+4846,performance tuning
+4847,tolerant cloud systems
+4848,cloud-based data pipeline development
+4849,AWS Glue
+4850,AWS Lake FormationAzure
+4851,Data FactoryGCP
+4852,Cloud Composer
+4853,Big Data Stacks
+4854,premise & Hybrid solutions
+4855,performance tuning
+4856,tolerant cloud systems
+4857,cloud-based data pipeline development
+4858,AWS Glue
+4859,AWS Lake FormationAzure
+4860,Data FactoryGCP
+4861,Cloud Composer
+4862,Big Data Stacks
+4863,holistic Web solutions
+4864,Agile development methodologies
+4865,MS SQL ServerSDLC
+4866,AWS Lambda
+4867,scalable and flexible B2C & B2B digital commerce architectures
+4868,the eCommerce offshore team
+4869,the Software Development Lifecycle
+4870,Agile/Scrum
+4871,Adobe AEM
+4872,direct API integration
+4873,Product Cockpit
+4874,Oracle CoherenceVarious
+4875,Google Analytics
+4876,Hybris Web Commerce platforms
+4877,Fast learner
+4878,"Hadoop, NoSQL"
+4879,premise/ Hybrid solutions
+4880,Data Visualization
+4881,Data-oriented personality
+4882,IoT Data Platform architectures
+4883,Containers and Resource Management systems
+4884,infrastructure troubleshooting
+4885,performance tuning
+4886,Java/ Scala
+4887,BashBig Data stack
+4888,Storage Queues
+4889,Apache Oozie
+4890,Cluster operation
+4891,Cluster planningSearch
+4892,RedisSolid Cloud experience
+4893,(AWS/Azure/GCP
+4894,Tensorflow)Enterprise Design Patterns
+4895,Component/ Integration Testing
+4896,SQL queries
+4897,SQL optimizationExperience
+4898,sustainable and efficient solutions
+4899,Agile development methodologies
+4900,Proficiency and enterprise work experience
+4901,Data Architects
+4902,Data Technology Consultants
+4903,structured and unstructured data
+4904,premise and cloud architectures
+4905,cloud-based data pipeline development
+4906,Azure: Storage
+4907,Real DOMsMVC
+4908,Design & Develop web backend solutions
+4909,the Virtual DOMUnderstanding
+4910,Design & Develop web backend solutions
+4911,Core JavaCreational
+4912,Web DesignRESTful
+4913,MS SQL Server
+4914,Automation Framework
+4915,DevOps pipeline
+4916,Quality Assurance
+4917,Scope and estimate project tasks
+4918,fast and scalable Python code
+4919,Strong SQL knowledge
+4920,Strong Linux knowledge
+4921,Configuration management
+4922,(GIT/Stash
+4923,asynchronous API design
+4924,Agile development methodologies
+4925,Mainframe/Backend Systems - Knowledge
+4926,DevOps pipeline
+4927,Reporting - Jira
+4928,Mainframe Automation
+4929,Quality Assurance
+4930,UI Automation
+4931,public/private testnet
+4932,Smart Contract security audits
+4933,Solidity contracts
+4934,the Virtual DOMUnderstanding
+4935,ARM Cortex M4/A7
+4936,various OS environments
+4937,creative and ground-breaking software frameworks
+4938,DevOps frameworks
+4939,JavaScript frameworks
+4940,solution documentation
+4941,Office 365 Power Platform environment tools
+4942,SQL reporting
+4943,Hands-on 1hour series
+4944,Lead PFMEA
+4945,controlled and timely incident resolution
+4946,effective and defect-free support
+4947,solution designers
+4948,Monitor system life cycles
+4949,performance and resource utilization
+4950,targeted and controlled remediation plans
+4951,Microsoft Azure
+4952,SQL/NoSQL database
+4953,5G RAN
+4954,5G networks
+4955,5G RAN
+4956,4G/5G SW development experience
+4957,5G RAN
+4958,5G networks
+4959,5G RAN
+4960,4G/5G SW development experience
+4961,Agile environment
+4962,Demonstrable C/C++ programming experience
+4963,containerized and serverless microservices
+4964,scalable AI prototypes
+4965,AWS IoT
+4966, Experience building high scale Event-Driven Architecture
+4967, AWS services
+4968, Design ML& AI solutions
+4969,AWS technologies
+4970,Python Data Science Libraries
+4971,Data Analysis/Data Cleaning/Feature Engineering/Modelling/Testing/Validation
+4972, Time Series Modeling
+4973,video processing capabilities
+4974,Board Software Packages
+4975,SPI and Ethernet protocols
+4976,Business Analysts
+4977,an Azure environment
+4978,Key Vault
+4979,Azure Certifications AZ-900
+4980,Azure Pipelines
+4981,GitHub Actions
+4982,Octopus Deploy
+4983,either Azure DevOps
+4984,GitHub Enterprise
+4985,public cloud platforms
+4986, AWS primitives
+4987,efficient and optimized code
+4988,Experience consuming web services
+4989,XML/JSON
+4990,Business Analysts
+4991,an Azure environment
+4992,Key Vault
+4993,Azure Certifications AZ-900
+4994,Azure Pipelines
+4995,GitHub Actions
+4996,Octopus Deploy
+4997,either Azure DevOps
+4998,GitHub Enterprise
+4999,Kotlin/Java
+5000,efficient and optimized code
+5001,Android OS
+5002,the Android development lifecycle
+5003,Experience consuming web services
+5004,XML/JSON
+5005,Kotlin/Java
+5006,efficient and optimized code
+5007,Android OS
+5008,the Android development lifecycle
+5009,Experience consuming web services
+5010,XML/JSON
+5011,efficient and optimized code
+5012,Experience consuming web services
+5013,XML/JSON
+5014,efficient and optimized code
+5015,Experience consuming web services
+5016,XML/JSON
+5017,Business Analysts
+5018,an Azure environment
+5019,Key Vault
+5020,Azure Certifications AZ-900
+5021,Azure Pipelines
+5022,GitHub Actions
+5023,Octopus Deploy
+5024,either Azure DevOps
+5025,GitHub Enterprise
+5026,Kotlin/Java
+5027,efficient and optimized code
+5028,Android OS
+5029,the Android development lifecycle
+5030,Experience consuming web services
+5031,XML/JSON
+5032,Azure environments
+5033,current and emerging Azure services
+5034,the Azure service implementation
+5035,product and business analytics teams
+5036,Expert SQL and data modeling skills
+5037,performance tuning
+5038,AWS cloud services
+5039,Product Designers
+5040,Commercial and Leadership/Mentorship exposure
+5041,Strong Backend background
+5042,build and deployment scripts
+5043,cloud infrastructure compliance
+5044,public cloud certifications
+5045,Lambda functions
+5046,Current AWS certifications
+5047,UI/UX applications
+5048,UI/UX applications
+5049,Linux/Windows OS platforms
+5050,Web/Cloud/SaaS based solutions
+5051,UI/UX applications
+5052,Java/JavaScript
+5053,cloud/web/mobile-based and IoT applications development
+5054,Cloud/Edge computing
+5055,network security protocols
+5056,Software-Defined Radios
+5057,Self-starter
+5058,Google Anthos
+5059,Microsoft Azure
+5060,DevOps concepts
+5061,Linux and Windows development environments
+5062,Cloud/Edge computing
+5063,network security protocols
+5064,Software Defined Radios
+5065,Self-starter/motivator
+5066,Google Anthos
+5067,Microsoft Azure
+5068,DevOps concepts
+5069,Public Cloud Stacks
+5070,Public Cloud Networking
+5071,GCP Templates
+5072,Infrastructure and Cybersecurity teams
+5073,a hybrid Azure AD/O365
+5074,OS deployment configuration
+5075, Maintain and document desktop configuration standards
+5076,organizational security policies
+5077,technical and standard operating procedure documentation
+5078,security configurations
+5079,testing and validation efforts
+5080,Azure Virtual Desktop..  Design
+5081,Windows 10 OS and associated services
+5082,Azure MFA
+5083,SSO Apps
+5084,Enterprise Mobility
+5085,O365 solution design
+5086,Azure services
+5087,Security and Privacy Frameworks
+5088,Microsoft Graph
+5089,Microsoft O365
+5090,Modern Desktop Administrator Associate
+5091,Identity Fundamentals
+5092,Azure Virtual Desktop
+5093,Java/JavaScript/Groovy/Python
+5094,UNIX/Linux environments
+5095,IntelliJ/Eclipse/Visual Code/WebStorm..  Experience
+5096,Google Anthos
+5097,Microsoft Azure
+5098,DevOps concepts
+5099,superior UI designs
+5100,UI components
+5101,Java RESTful APIs
+5102,Strong UI development
+5103,RESTful Java APIs
+5104,Strong SQL coding skills
+5105,"C#, ASP.NET framework"
+5106,Net WebAPI
+5107,RESTful API services
+5108,MS SQL database development
+5109,Agile methodologies
+5110,efficient and legible code
+5111,Agile ceremonies
+5112,hands-on full-stack development work experience
+5113,an Agile environment
+5114,Microsoft .NET Framework
+5115,Microsoft SQL Server
+5116,A bachelor’s degree
+5117,public and private cloud stack
+5118,MS SQL Server
+5119,Azure DevOps
+5120,MS Azure
+5121,"(UI, Business Logic Layer"
+5122,(Agile/Scrum
+5123,A completed Bachelor's degree
+5124,SAS Base
+5125,SAS EG
+5126,Java frameworks
+5127,Microsoft Azure cloud development experience
+5128,Microsoft Azure cloud development experience
+5129,"an Agile, cross-functional team"
+5130,NoSQL/KV Stores
+5131,Messaging Queuing Services
+5132,GitHub use
+5133,"Results-oriented, data-driven, experimental attitude"
+5134,Kotlin/Java
+5135,Server-side scripting skills
+5136,Bitbucket / Git
+5137,"Agile, Continuous Integration"
+5138,C / embedded software
+5139,"Self-motivated, enthusiastic and strong drive"
+5140,"Self-motivated, enthusiastic and strong drive"
